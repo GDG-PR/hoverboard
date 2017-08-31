@@ -17,6 +17,8 @@
       "database.rules.json",
       "firebase.json",
       "README.md"
+      "**/.*",
+      "**/node_modules/**"
     ]
   }
 }
