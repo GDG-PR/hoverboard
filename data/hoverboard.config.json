@@ -32,7 +32,7 @@
     "locale": "pt-br",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
-  "hashtag": "dfua",
+  "hashtag": "devfestpr",
   "disqusShortName": "hoverboard-gdg-x",
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
@@ -85,8 +85,8 @@
       "zoom": 13
     },
     "mapCenter": {
-      "latitude": -23.418180,
-      "longitude": -51.922064
+      "latitude": -23.42,
+      "longitude": -51.89
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
