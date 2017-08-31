@@ -1,14 +1,14 @@
 {
-  "url": "https://hoverboard.firebaseapp.com/",
-  "startDate": "2016-09-09T09:00:00+03:00",
-  "endDate": "2016-09-10T19:00:00+03:00",
+  "url": "https://devfestpr.org/",
+  "startDate": "2017-11-11T08:00:00+03:00",
+  "endDate": "2017-11-11T18:30:00+03:00",
   "analytics": {
-    "prod": "UA-43643469-8",
-    "dev": "UA-43643469-9"
+    "prod": "UA-105712773-1",
+    "dev": "UA-105712773-1"
   },
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv"
+    "name": "GDG Paraná",
+    "twitter": "gdgpr"
   },
   "webapp": {
     "shortName": "DevFest",
@@ -29,7 +29,7 @@
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
   },
   "dateFormat": {
-    "locale": "en-US",
+    "locale": "pt-br",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
   "hashtag": "dfua",
@@ -37,15 +37,11 @@
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
   "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
-  "enableSessionsRating": true,
+  "enableSessionsRating": false,
   "navigation": [
     {
       "route": "home",
       "permalink": "/"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/"
     },
     {
       "route": "schedule",
@@ -54,10 +50,6 @@
     {
       "route": "speakers",
       "permalink": "/speakers/"
-    },
-    {
-      "route": "team",
-      "permalink": "/team/"
     }
   ],
   "social": [
@@ -84,17 +76,17 @@
   ],
   "location": {
     "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
+    "name": "SEBRAE Maringá",
+    "address": "Av. Bento Munhoz da Rocha Neto, 1116 - Zona 7 - Maringá PR",
+    "link": "http://www.sebraepr.com.br",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 15
+      "latitude": -23.418180,
+      "longitude": -51.922064,
+      "zoom": 13
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": -23.418180,
+      "longitude": -51.922064
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
@@ -121,7 +113,7 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
+          "title": "GDG DevFest Paraná 2017",
           "youtubeId": "TdpbgRgz6eE",
           "text": "See how it was in 2016"
         },
@@ -129,16 +121,8 @@
         "minHeight": "360px"
       }
     },
-    "blog": {
-      "title": "Blog",
-      "headerSettings": {
-        "backgroundColor": "#03a9f4",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
     "speakers": {
-      "title": "Speakers",
+      "title": "Palestrantes",
       "headerSettings": {
         "backgroundColor": "#3f51b5",
         "fontColor": "#fff",
@@ -146,23 +130,15 @@
       }
     },
     "schedule": {
-      "title": "Schedule",
+      "title": "Agenda",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
     },
-    "team": {
-      "title": "Team",
-      "headerSettings": {
-        "backgroundColor": "#009688",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
     "cod": {
-      "title": "Cod of Conduct",
+      "title": "Código de conduta",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
