@@ -25,24 +25,26 @@
     "indexedDbSession": "hoverboard"
   },
   "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+    "url": "",
+    "name": ""
   },
   "dateFormat": {
     "locale": "pt-br",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
   "hashtag": "devfestpr",
-  "disqusShortName": "hoverboard-gdg-x",
+  "disqusShortName": "",
   "tweetsSource": "/data/tweets.json",
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "partnershipProposition": "https://goo.gl/forms/5xUzcCSjf36lm2CF2",
+  "videosSessionsUrl": "",
   "enableSessionsRating": false,
   "navigation": [
     {
       "route": "home",
       "permalink": "/"
-    },
+    }
+  ],
+  "navigationDisabled": [
     {
       "route": "schedule",
       "permalink": "/schedule/"
@@ -55,23 +57,13 @@
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
-    },
-    {
-      "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "GDGPr",
+      "url": "https://twitter.com/gdgpr"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
-    },
-    {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "GDGParana",
+      "url": "https://www.facebook.com/gdgparana"
     }
   ],
   "location": {
@@ -90,12 +82,11 @@
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
-      "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
+      "/images/backgrounds/location_2.jpg"
     ]
   },
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://www.facebook.com/pg/gdgparana/photos/?tab=album&album_id=1873733839515298",
     "photos": {
       "big": "/images/backgrounds/2015_1.jpg",
       "small": [
@@ -112,11 +103,6 @@
         "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
-        "video": {
-          "title": "GDG DevFest Paraná 2017",
-          "youtubeId": "TdpbgRgz6eE",
-          "text": "See how it was in 2016"
-        },
         "hideLogo": true,
         "minHeight": "360px"
       }
@@ -139,6 +125,24 @@
     },
     "cod": {
       "title": "Código de conduta",
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    }
+  },
+  "disabledPages": {
+    "speakers": {
+      "title": "Palestrantes",
+      "headerSettings": {
+        "backgroundColor": "#3f51b5",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "schedule": {
+      "title": "Agenda",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",

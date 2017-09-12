@@ -2,10 +2,10 @@
   "title": "GDG DevFest Paraná 2017",
   "description": "A maior conferência de tecnologias Google do Paraná, cuidadosamente preparada para você!",
   "keywords": "evento, gdg, gde, devfest, google, programação, android, chrome, polymer, desenvolvedores, web, cloud, androiddev",
-  "dates": "11 de Novembro de 2017",
+  "dates": "11 de Novembro em Maringá",
   "locationAddressShort": "Maringá, Paraná",
   "motto": "",
-  "playIcon": "Veja como foi em 2016",
+  "playIcon": "",
   "c4p": "Seja um palestrante",
   "buyTicket": "Comprar ingresso",
   "backToTop": "Voltar para o topo",
@@ -32,7 +32,7 @@
   "locationDescription": "o SEBRAE Maringá possui uma infraesturura de primeia linha para eventos com 200+ participantes e múltiplas trilhas.",
   "locationAddress": "Av. Bento Munhos da Rocha Neto, 1116",
   "organizerTitle": "Organização",
-  "aboutOrganizers": "<a href='' target='_blank'>GDG Paraná</a> com o apoio de 5 grupos GDG distribuidos ao redor do estado.",
+  "aboutOrganizers": "<a href='' target='_blank'>GDG Paraná</a> com o apoio dos GDG distribuidos ao redor do estado e do Dev Paraná.",
   "openTeamPage": "Saiba mais",
   "whatIsGdg": "Oque é GDG?",
   "aboutGdg": "Google Developers Group (GDG) - É a comunidade aberta de desenvolvedores que criam projetos e compartilham experiências sobre as tecnologias do Google e outras tecnologias relacionadas.",
@@ -41,7 +41,7 @@
   "filteredBy": "filtrando por",
   "clearAll": "Limpar tudo",
   "filter": "Filtrar",
-  "latestNews": "Úlitmas notícias",
+  "latestNews": "Últimas notícias",
   "continueReading": "Continuar leitura",
   "viewPresentation": "Ver apresentação",
   "viewVideo": "Ver vídeo",
@@ -79,7 +79,7 @@
       "links": [
         {
           "text": "Media Kit",
-          "url": "http://bit.ly/df16-media",
+          "url": "https://drive.google.com/file/d/0Bx3BW_aPrpbSQ0NhenZqOWpjcUk/view?usp=sharing",
           "newTab": true
         }
       ]
@@ -88,8 +88,8 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "Clique aqui e envie a sua dúvida",
+        "url": "https://goo.gl/forms/5xUzcCSjf36lm2CF2"
       }
     ]
   },
@@ -97,15 +97,15 @@
   "teamPageText": "O Google é conhecido em todo o mundo. Todos estão \"pesquisando\", verificando \"mapas\" e se comunicando no \"Gmai\". Para simples usuários, estes são serviços que apenas funcionam, mas não para nós, os desenvolvedores, vemos muito alem: APIs, problemas de escalabilidade, arquiteruras complexas e muita tecnologia. E é disso que o GDG trata. É uma comunidade aberta que cria projetos excitantes e compartilha experiências sobre tecnologias do Google e outras tecnologias relacionadas. Nosso objetivo é organizar espaços para conectar os melhores especialistas da indústria com os desenvolvedores locais, e assim impulsionar o crescimento de nosso ecossistema de TI.",
   "statistics": [
     {
-      "counter": 230,
+      "counter": "200+",
       "caption": "Participantes"
     },
     {
-      "counter": 15,
+      "counter": "15+",
       "caption": "Palestras"
     },
     {
-      "counter": 8,
+      "counter": "4+",
       "caption": "Mentorias"
     },
     {

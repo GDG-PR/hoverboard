@@ -139,7 +139,7 @@
         <a href="/" hidden$="{{hideLogo}}" fade>
           <iron-image
             class="logo"
-            src="/images/logo-white.svg"
+            src="/images/logo-white.png"
             sizing="contain"
             alt="{$ title $}"
           ></iron-image>
@@ -185,9 +185,9 @@
           </div>
         </paper-menu-button>
 
-        <div class="action-button-wrapper" hidden$="[[app.isPhoneSize]]" layout horizontal center-center>
-          <a href="{$ tickets.url $}" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
-            <paper-button class="action-button">{$ buyTicket $}</paper-button>
+        <div class="action-button-wrapper" layout horizontal center-center>
+          <a href="https://goo.gl/forms/VTB16N5UXrc46L6i2" target="_blank" rel="noopener noreferrer" on-tap="_trackC4PClick">
+            <paper-button class="action-button">{$ c4p $}</paper-button>
           </a>
         </div>
       </div>
