@@ -1,53 +1,34 @@
-# 1. Purpose
+Todos os participantes, palestrantes, patrocinadores e voluntários da conferência precisam concordar com este código de conduta. Os organizadores vão reforçar que este código seja seguido durante todo o evento. Esperamos a cooperação de todos os participantes para ajudar a garantir um ambiente seguro para todos.
 
+# PRECISA DE AJUDA?
 
-A primary goal of [GDG Lviv](http://lviv.gdg.org.ua/) is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof). 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means the [jerky behavior](https://meta.wikimedia.org/wiki/Don%27t_be_a_jerk) isn’t allowed at GDG meetings.
+Caso tenha alguma dúvida ou sugestão, entre em contato com qualquer um dos organizadores da conferência, ou pelo e-mail [contato@devfestpr.org](mailto:contato@devfestpr.org);
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
-We invite all those who participate in Google Developers Group to help us create safe and positive experiences for everyone.
+# VERSÃO RÁPIDA (TL;DR)
 
-# 2. Open [Source/Culture/Tech] Citizenship
+O GDG DevFest Paraná 2017 é dedicado a fornecer uma experiência de conferência livre de assédio para todos, independentemente do sexo, identidade de gênero e expressão, idade, orientação sexual, deficiência, aparência física, tamanho corporal, cor de pele, etnia, religião (ou falta dela) ou escolhas de tecnologias.
 
-A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community. Communities mirror the societies in which they exist, and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society. If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+Nós não toleramos o assédio aos participantes da conferência, sob qualquer forma. Linguagem e imagens sexuais não são apropriadas em nenhum local da conferência, incluindo palestras, workshops, festas, Twitter e outras mídias on-line. Os participantes que violarem essas regras poderão ser punidos ou expulsos da conferência sem restituição, a critério dos organizadores da conferência.
+A punição pode ir desde a expulsão do participante da conferência atual, até ser banido da próxima edição dela.
 
-# 3. Expected Behavior
+# VERSÃO DETALHADA
 
-The following behaviors are expected and requested of all community members:
+Assédio inclui comentários verbais ofensivos relacionados ao gênero, identidade de gênero e expressão, idade, orientação sexual, deficiência, aparência física, tamanho corporal, cor de pele, etnia, religião, escolhas de tecnologias, imagens sexuais em espaços públicos, intimidação deliberada, perseguição, stalking, fotografias ou filmagens constrangedoras, interrupção contínua das apresentações ou outros eventos, contato físico inadequado e atenção sexual indesejada.
 
-- Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
-- Exercise consideration and respect in your speech and actions.
-- Attempt collaboration before a conflict.
-- Refrain from demeaning, discriminatory, or harassing behavior and speech.
-- Be mindful of your surroundings and your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+Os participantes que receberem uma solicitação para interromper qualquer comportamento de assédio devem fazê-lo imediatamente.
 
-# 4. Unacceptable Behavior
+Os patrocinadores também estão sujeitos às políticas anti assédio. Particularmente, os patrocinadores não devem usar imagens, atividades ou outro material de cunho sexual. As equipes de estandes e tendas (incluindo voluntários), palestrantes e participantes, não devem utilizar roupas, uniformes ou trajes sexualizados ou de outra forma criar um ambiente sexualizado.
 
-The following actions are considered harassment and are unacceptable within our community:
+Se um participante se envolve em comportamento de assédio, os organizadores da conferência podem tomar todas as medidas que considerem adequadas, incluindo avisar o ofensor ou expulsá-lo da conferência sem nenhum reembolso.
 
-- Violence, threats of violence or violent language directed against another person.
-- Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
-- Posting or displaying sexually explicit or violent material.
-- Posting or threatening to post other people’s personally identifying information ("doxing").
-- Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
-- Inappropriate photography or recording.
-- Inappropriate physical contact. You should have someone’s consent before touching them.
-- Unwelcome sexual attention. This includes sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
-- Deliberate intimidation, stalking or following (online or in person).
-- Advocating for, or encouraging, any of the above behavior.
-- Sustained disruption of community events, including talks and, presentations.
+Caso seja assediado, perceba que alguém está sendo assediado ou tenha alguma dúvida, entre em contato com um membro da equipe da conferência imediatamente. Membros da equipe da conferência podem ser identificados pois estarão vestindo camisetas marcadas, ou com os devidos crachás de staff.
+Não tome atitudes por conta própria e denuncie a situação de forma discreta, a fim de mantermos a segurança de todos, a ordem, e o sigilo.
 
-#  5. Consequences of Unacceptable Behavior
+A equipe da conferência estará disposta a auxiliar os participantes a contatarem a segurança do local, assim como as devidas aplicações da lei local, fornecer escoltas ou ajudar aqueles que sofrerem assédio para que se sintam seguros pelo o decorrer da conferência. Nós valorizamos a sua participação e queremos que aproveite o máximo possível, sinta-se a vontade e em segurança, e acima de tudo, respeitado.
 
-Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event.
+Esperamos que os participantes sigam estas regras em salas de apresentação e convivência, além de eventos sociais relacionados, como after-parties, happy-hours e jantares.
 
-# 6. Scope
+Referencias:
 
-We expect all community participants to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications about community business. This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to affect the safety and well-being of community members adversely.
-
-# 7. Contact info
-
-- Oleh Zasadnyy, +38 093 486 64 60, [oleh.zasadnyy@gdg.org.ua](mailto:oleh.zasadnyy@gdg.org.ua)
-- Sofiya Huts, +38 093 486 14 25, [sofia.huts@gmail.com](mailto:sofia.huts@gmail.com)
+- [https://braziljs.org/coc/](https://braziljs.org/coc/)
+- [http://confcodeofconduct.com/](http://confcodeofconduct.com/)
