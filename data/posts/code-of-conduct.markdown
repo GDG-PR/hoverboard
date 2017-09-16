@@ -2,7 +2,7 @@ Todos os participantes, palestrantes, patrocinadores e voluntários da conferên
 
 # PRECISA DE AJUDA?
 
-Caso tenha alguma dúvida ou sugestão, entre em contato com qualquer um dos organizadores da conferência, ou pelo e-mail [contato@devfestpr.org](mailto:contato@devfestpr.org);
+Caso tenha alguma dúvida ou sugestão, entre em contato com qualquer um dos organizadores da conferência, ou pelo formulário [https://goo.gl/forms/5xUzcCSjf36lm2CF2](https://goo.gl/forms/5xUzcCSjf36lm2CF2);
 
 # VERSÃO RÁPIDA (TL;DR)
 
