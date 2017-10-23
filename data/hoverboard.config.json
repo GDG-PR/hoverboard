@@ -42,16 +42,16 @@
     {
       "route": "home",
       "permalink": "/"
+    },
+    {
+      "route": "speakers",
+      "permalink": "/speakers"
     }
   ],
   "navigationDisabled": [
     {
       "route": "schedule",
       "permalink": "/schedule/"
-    },
-    {
-      "route": "speakers",
-      "permalink": "/speakers/"
     }
   ],
   "social": [
@@ -133,14 +133,6 @@
     }
   },
   "disabledPages": {
-    "speakers": {
-      "title": "Palestrantes",
-      "headerSettings": {
-        "backgroundColor": "#3f51b5",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
     "schedule": {
       "title": "Agenda",
       "headerSettings": {
