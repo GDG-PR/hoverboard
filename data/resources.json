@@ -1,6 +1,6 @@
 {
   "title": "GDG DevFest Paraná 2017",
-  "description": "A maior conferência de tecnologias Google do Paraná, cuidadosamente preparada para você!",
+  "description": "A maior conferência de tecnologias Google do Sul do país, cuidadosamente preparada para você!",
   "keywords": "evento, gdg, gde, devfest, google, programação, android, chrome, polymer, desenvolvedores, web, cloud, androiddev",
   "dates": "11 de Novembro em Maringá",
   "locationAddressShort": "Maringá, Paraná",
@@ -97,7 +97,7 @@
   "teamPageText": "O Google é conhecido em todo o mundo. Todos estão \"pesquisando\", verificando \"mapas\" e se comunicando no \"Gmai\". Para simples usuários, estes são serviços que apenas funcionam, mas não para nós, os desenvolvedores, vemos muito alem: APIs, problemas de escalabilidade, arquiteruras complexas e muita tecnologia. E é disso que o GDG trata. É uma comunidade aberta que cria projetos excitantes e compartilha experiências sobre tecnologias do Google e outras tecnologias relacionadas. Nosso objetivo é organizar espaços para conectar os melhores especialistas da indústria com os desenvolvedores locais, e assim impulsionar o crescimento de nosso ecossistema de TI.",
   "statistics": [
     {
-      "counter": "200+",
+      "counter": "200",
       "caption": "Participantes"
     },
     {
@@ -105,7 +105,7 @@
       "caption": "Palestras"
     },
     {
-      "counter": "4",
+      "counter": "10",
       "caption": "Mentores"
     },
     {
