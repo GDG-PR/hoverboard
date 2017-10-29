@@ -113,16 +113,16 @@ function build() {
           .pipe(uglify())
           .pipe(gulp.dest(config.build.rootDirectory));
       })
-      .then(() => {
-        console.log('Coping t-shirt directory...');
+      // .then(() => {
+      //   console.log('Coping t-shirt directory...');
 
-        return gulp.src([
-            'camiseta/*',
-            'camiseta/**/*',
-            'camiseta/**/**/*'
-          ])
-          .pipe(gulp.dest(config.build.rootDirectory + '/camiseta'));
-      })
+      //   return gulp.src([
+      //       'camiseta/*',
+      //       'camiseta/**/*',
+      //       'camiseta/**/**/*'
+      //     ])
+      //     .pipe(gulp.dest(config.build.rootDirectory + '/camiseta'));
+      // })
       .then(() => {
         console.log('Build complete!');
         resolve();
