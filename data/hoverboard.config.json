@@ -46,9 +46,7 @@
     {
       "route": "speakers",
       "permalink": "/speakers"
-    }
-  ],
-  "navigationDisabled": [
+    },
     {
       "route": "schedule",
       "permalink": "/schedule/"
@@ -130,9 +128,7 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
-    }
-  },
-  "disabledPages": {
+    },
     "schedule": {
       "title": "Agenda",
       "headerSettings": {
