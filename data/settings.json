@@ -1,21 +1,21 @@
 {
   "organizer": {
-    "name": "GDG Lviv",
+    "name": "GDG PR",
     "twitter": "gdglviv",
     "blog": "https://medium.com/gdg-lviv",
     "url": "http://lviv.gdg.org.ua/"
   },
-  "startDate": "2017-10-013T09:00:00+03:00",
-  "endDate": "2017-10-14T19:00:00+03:00",
+  "startDate": "2018-11-24T08:30:00-03:00",
+  "endDate": "2018-11-24T18:30:00-03:00",
   "webapp": {
     "shortName": "DevFest",
     "themeColor": "#673AB7",
     "backgroundColor": "#673AB7"
   },
   "dateFormat": {
-    "locale": "en-US"
+    "locale": "pt-BR"
   },
-  "hashtag": "DevFest17",
+  "hashtag": "DevFestPR18",
   "disabledSchedule": false,
   "showSessionShortAbstract": true,
   "navigation": [
@@ -27,17 +27,17 @@
     {
       "route": "speakers",
       "permalink": "/speakers/",
-      "label": "Speakers"
+      "label": "Palestrantes"
     },
     {
       "route": "schedule",
       "permalink": "/schedule/",
-      "label": "Schedule"
+      "label": "Agenda"
     },
     {
       "route": "team",
       "permalink": "/team/",
-      "label": "Team"
+      "label": "Time"
     },
     {
       "route": "blog",
@@ -114,18 +114,18 @@
   },
   "location": {
     "label": "Location",
-    "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "name": "FEITEP",
+    "city": "Maringá",
+    "short": "Maringá, Paraná",
+    "address": "Avenida Paranavaí, 1164 - Zona 06, Maringá",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 5
+      "latitude": -23.423124,
+      "longitude": -51.970984,
+      "zoom": 10
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": -23.423124,
+      "longitude": -52.3
     },
     "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
   },

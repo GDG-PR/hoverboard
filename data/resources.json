@@ -1,26 +1,26 @@
 {
-  "title": "GDG DevFest Season 2018",
+  "title": "GDG DevFest Paraná 2018",
   "description": "Be a hero. Be a GDG!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 12-13, 2018",
+  "dates": "24 de Novembro de 2018",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
-  "share": "Share",
+  "share": "Compartilhar",
   "followOur": "Follow our",
   "followUs": "Follow us",
   "emailUs": "Email us",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
-  "buyTicket": "Buy ticket",
+  "buyTicket": "Comprar ingresso",
   "signIn": "Sign in",
   "signOut": "Sign out",
-  "viewHighlights": "View Highlights",
-  "offlineMessage": "You can still work offline.",
-  "cachingComplete": "Caching complete! Future visits will work offline.",
-  "newVersionAvailable": "A new version of this app is available.",
-  "refresh": "Refresh",
-  "position": "Position",
-  "country": "Country",
+  "viewHighlights": "Ver Highlights",
+  "offlineMessage": "Você está navegando off-line.",
+  "cachingComplete": "Cache completo! Visitas futuras também funcionarão off-line.",
+  "newVersionAvailable": "Uma nova versão deste app está disponível.",
+  "refresh": "Atualizar",
+  "position": "Posição",
+  "country": "País",
   "time": "Time",
   "faq": "/data/faq.md",
   "cod": "/data/cod.md",
@@ -28,16 +28,16 @@
     "blog": "Blog"
   },
   "mySchedule": {
-    "title": "My Schedule",
-    "browseSession": "Browse sessions"
+    "title": "Minha Agenda",
+    "browseSession": "Verificar sessões"
   },
   "footerRelBlock": [
     {
-      "title": "About",
+      "title": "Sobre",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
+          "name": "GDG Maringá",
+          "url": "http://gdg.maringa.br/",
           "newTab": true
         },
         {
@@ -53,26 +53,11 @@
       ]
     },
     {
-      "title": "Explore Past DevFests",
+      "title": "Explore DevFests Passados",
       "links": [
         {
-          "name": "DFUA 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.firebaseapp.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.firebaseapp.com/",
+          "name": "Edição 2017",
+          "url": "https://devfest-pr-2017.firebaseapp.com/",
           "newTab": true
         }
       ]
@@ -108,50 +93,50 @@
       ]
     }
   ],
-  "subscribeNote": "No spam, only the latest news and updates!",
-  "codeOfConduct": "Code of Conduct",
+  "subscribeNote": "Nada de spam, apenas as úlitmas notícias!",
+  "codeOfConduct": "Código de conduta",
   "aboutBlock": {
     "title": "What you need to know, before you ask.",
     "callToAction": {
       "featuredSessions": {
         "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
         "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "link": "https://www.youtube.com/playlist?list=PLDvLVu86lJPGopJhZgky2vY4dg9qcj-4P"
       },
       "howItWas": {
         "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
-        "youtubeId": "TdpbgRgz6eE"
+        "label": "Veja como foi em 2017",
+        "youtubeId": "BQAGBaUbbMA"
       }
     },
     "statisticsBlock": {
       "attendees": {
-        "label": "Attendees",
-        "number": "900"
+        "label": "Participantes",
+        "number": "300"
       },
       "days": {
-        "label": "Days",
-        "number": "2"
+        "label": "Codelabs",
+        "number": "8"
       },
       "sessions": {
-        "label": "Sessions",
-        "number": "50"
+        "label": "Palestras",
+        "number": "8"
       },
       "tracks": {
-        "label": "Tracks",
-        "number": "4"
+        "label": "Trilhas",
+        "number": "2"
       }
     }
   },
   "ticketsBlock": {
-    "title": "Tickets",
+    "title": "Ingressos",
     "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
     "save": "Save ${discount}% today"
   },
   "partnersBlock": {
-    "title": "Partners",
+    "title": "Parceiros",
     "button": "Become a partner",
     "form": {
       "title": "Become a partner!",
@@ -162,10 +147,10 @@
     "toast": "We will contact you soon!"
   },
   "featuredVideos": {
-    "title": "DFUA'16 featured videos",
+    "title": "Vídeos de 2017",
     "callToAction": {
-      "label": "See all videos",
-      "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+      "label": "Ver todos os vídeos",
+      "link": "https://www.youtube.com/playlist?list=PLDvLVu86lJPGopJhZgky2vY4dg9qcj-4P"
     }
   },
   "blog": {
@@ -173,9 +158,9 @@
     "suggested": "Up next"
   },
   "latestPostsBlock": {
-    "title": "The latest news",
+    "title": "Últimas notícias",
     "callToAction": {
-      "label": "View all stories",
+      "label": "Ver todas postagens",
       "link": "/blog/"
     }
   },
@@ -187,32 +172,32 @@
   "speakersBlock": {
     "title": "Rockstar speakers",
     "callToAction": {
-      "label": "View all speakers",
+      "label": "Ver all speakers",
       "link": "/speakers/"
     }
   },
   "previousSpeakersBlock": {
     "title": "Previous speakers",
     "callToAction": {
-      "label": "View all",
+      "label": "Ver tudo",
       "link": "/previous-speakers/"
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
+    "title": "#DevFestPR17 highlights",
     "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
     "callToAction": {
-      "label": "See all photos",
-      "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
+      "label": "Ver todas as fotos",
+      "link": "https://photos.app.goo.gl/g2KrBLR6ZmLEX6dg7"
     }
   },
   "mapBlock": {
-    "title": "Location"
+    "title": "Localização"
   },
   "subscribeBlock": {
     "callToAction": {
       "description": "Get notified about the important conference updates",
-      "label": "Subscribe"
+      "label": "Assinar"
     },
     "yourEmail": "Your email",
     "emailAddress": "Email Address",
@@ -234,12 +219,12 @@
   },
   "sessionDetails": {
     "contentLevel": "Content level",
-    "viewPresentation": "View presentation",
-    "viewVideo": "View video",
-    "speakers": "Speakers"
+    "viewPresentation": "Ver apresentação",
+    "viewVideo": "Ver video",
+    "speakers": "Palestrantes"
   },
   "speakerDetails": {
-    "sessions": "Sessions"
+    "sessions": "Palestras"
   },
   "notifications": {
     "default": "Enable notifications",
