@@ -25,7 +25,7 @@
   "faq": "/data/faq.md",
   "cod": "/data/cod.md",
   "footer": {
-    "blog": "Blog"
+    "blog": "Notícias"
   },
   "mySchedule": {
     "title": "Minha Agenda",
@@ -106,7 +106,7 @@
       "howItWas": {
         "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
         "label": "Veja como foi em 2017",
-        "youtubeId": "BQAGBaUbbMA"
+        "youtubeId": "VGXhBlyLgdQ"
       }
     },
     "statisticsBlock": {
