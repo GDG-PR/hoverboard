@@ -22,7 +22,7 @@
     {
       "route": "home",
       "permalink": "/",
-      "label": "Home"
+      "label": "Início"
     },
     {
       "route": "speakers",
@@ -35,14 +35,9 @@
       "label": "Agenda"
     },
     {
-      "route": "team",
-      "permalink": "/team/",
-      "label": "Time"
-    },
-    {
       "route": "blog",
       "permalink": "/blog/",
-      "label": "Blog"
+      "label": "Notícias"
     }
   ],
   "heroSettings": {
@@ -55,7 +50,7 @@
       "fontColor": "#FFF"
     },
     "blog": {
-      "title": "Blog",
+      "title": "Notícias",
       "metaDescription": "Read stories from our team",
       "background": {
         "color": "#FFF"
