@@ -42,6 +42,7 @@
   ],
   "heroSettings": {
     "home": {
+      "previousPlaylistVideo": "https://www.youtube.com/watch?v=VGXhBlyLgdQ&list=PLDvLVu86lJPGopJhZgky2vY4dg9qcj-4P",
       "description": "Be a hero. Be a GDG!",
       "background": {
         "color": "#673ab7",
