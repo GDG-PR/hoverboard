@@ -6,9 +6,9 @@
   "dates": "24 de Novembro de 2018",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Compartilhar",
-  "followOur": "Siga nosso",
+  "followOur": "Acompanhe as",
   "followUs": "Siga-nos",
-  "emailUs": "Envie um email",
+  "emailUs": "Entre em contato",
   "partnershipResources": "Materiais para parceiros",
   "eventResources": "Materiais sobre o evento",
   "buyTicket": "Comprar ingresso",
@@ -86,7 +86,7 @@
   "subscribeNote": "Nada de spam, apenas as úlitmas notícias!",
   "codeOfConduct": "Código de conduta",
   "aboutBlock": {
-    "title": "O que você precisa saber antes de perguntar.",
+    "title": "O que você precisa saber antes",
     "callToAction": {
       "featuredSessions": {
         "description": "O GDG DevFest Paraná reúne especialistas em tecnologias Android, Web e Cloud para Maringá por 1 dia de sessões, workshops e showcases.",
