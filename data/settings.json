@@ -1,9 +1,6 @@
 {
   "organizer": {
-    "name": "GDG PR",
-    "twitter": "gdglviv",
-    "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "name": "GDG PR"
   },
   "startDate": "2018-11-24T08:30:00-03:00",
   "endDate": "2018-11-24T18:30:00-03:00",
@@ -30,11 +27,6 @@
       "label": "Palestrantes"
     },
     {
-      "route": "schedule",
-      "permalink": "/schedule/",
-      "label": "Agenda"
-    },
-    {
       "route": "blog",
       "permalink": "/blog/",
       "label": "Notícias"
@@ -43,7 +35,7 @@
   "heroSettings": {
     "home": {
       "previousPlaylistVideo": "https://www.youtube.com/watch?v=VGXhBlyLgdQ&list=PLDvLVu86lJPGopJhZgky2vY4dg9qcj-4P",
-      "description": "Be a hero. Be a GDG!",
+      "description": "Beyond Serverless",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
@@ -52,56 +44,56 @@
     },
     "blog": {
       "title": "Notícias",
-      "metaDescription": "Read stories from our team",
+      "metaDescription": "Fique por dentro das novidades",
       "background": {
         "color": "#FFF"
       },
       "fontColor": "#424242"
     },
     "speakers": {
-      "title": "Speakers",
-      "metaDescription": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
-      "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
+      "title": "Palestrantes",
+      "metaDescription": "Conheça os Googlers, parceiros e palestrantes convidados que estão construindo o futuro da nuvem. Volte sempre, pois adicionamos mais palestrantes, incluindo nossos convidados e parceiros.",
+      "description": "Conheça os Googlers, parceiros e palestrantes convidados que estão construindo o futuro da nuvem. Volte sempre, pois adicionamos mais palestrantes, incluindo nossos convidados e parceiros.",
       "background": {
         "color": "#FFF"
       },
       "fontColor": "#424242"
     },
     "previousSpeakers": {
-      "title": "Previous Speakers",
-      "metaDescription": "Check who was with us last years",
+      "title": "Palestraram por aqui",
+      "metaDescription": "Veja quem estava conosco nos últimos anos",
       "background": {
         "color": "#FFF"
       },
       "fontColor": "#424242"
     },
     "schedule": {
-      "title": "Schedule",
-      "metaDescription": "Choose your sessions to visit",
+      "title": "Agenda",
+      "metaDescription": "Escolha suas sessões para visitar",
       "background": {
         "color": "#fff"
       },
       "fontColor": "#424242"
     },
     "team": {
-      "title": "Team",
-      "metaDescription": "Get more info about organizers",
+      "title": "Time",
+      "metaDescription": "Obter mais informações sobre organizadores",
       "background": {
         "color": "#fff"
       },
       "fontColor": "#424242"
     },
     "faq": {
-      "title": "FAQs",
-      "metaDescription": "Find you answer right here!",
+      "title": "Dúvidas",
+      "metaDescription": "Encontre suas respostas aqui!",
       "background": {
         "color": "#fff"
       },
       "fontColor": "#424242"
     },
     "cod": {
-      "title": "Code Of Conduct",
-      "metaDescription": "Lear more about our expectations for all those who participate in our community",
+      "title": "Código de conduta",
+      "metaDescription": "Saiba mais sobre nossas expectativas para todos aqueles que participam de nossa comunidade",
       "background": {
         "color": "#fff"
       },
@@ -109,7 +101,7 @@
     }
   },
   "location": {
-    "label": "Location",
+    "label": "Localização",
     "name": "FEITEP",
     "city": "Maringá",
     "short": "Maringá, Paraná",
@@ -123,7 +115,7 @@
       "latitude": -23.423124,
       "longitude": -52.3
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "Instalações amplas com novíssimo auditório, muito bem estruturado e com capacidade acomodar mais de 300 participates"
   },
   "mediaQueries": {
     "xs": {
@@ -149,19 +141,11 @@
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
-      },
-      {
-        "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
+        "url": "https://www.facebook.com/gdgparana/"
       },
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://www.youtube.com/channel/UCKqF0Sh2wy1_-hf7oH4AKUw"
       }
     ],
     "share": [
@@ -179,7 +163,7 @@
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "contato@devfestpr.com",
   "mailchimp": {
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
@@ -188,24 +172,12 @@
     "providersData": [
       {
         "name": "google",
-        "label": "Sign in with Google",
+        "label": "Entre com sua conta Google",
         "url": "https://accounts.google.com"
-      },
-      {
-        "name": "facebook",
-        "label": "Sign in with Facebook",
-        "url": "https://www.facebook.com"
-      },
-      {
-        "name": "twitter",
-        "label": "Sign in with Twitter",
-        "url": "https://twitter.com"
       }
     ],
     "allowedProvidersUrl": [
-      "https://accounts.google.com",
-      "https://www.facebook.com",
-      "https://twitter.com"
+      "https://accounts.google.com"
     ]
   },
   "contentLoaders": {
