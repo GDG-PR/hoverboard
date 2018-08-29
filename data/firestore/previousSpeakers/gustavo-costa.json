@@ -1,0 +1,35 @@
+{
+  "bio" : "Gustavo Costa é desenvolvedor front-end com mais de 6+ anos de experiência, é fanático por Javascript e seu ecossistema, GDG Organizer, é expert em Angular e SPA, adora trabalhar e falar sobre performance e hoje está se aventurando na nova versão do framework e está de amores com Programação Reativa e RxJS.",
+  "company" : "EadBox",
+  "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/companies%2Feadbox.png?alt=media&token=b864c517-d77a-42ab-a67b-610ee11c9cf3",
+  "country" : "Maceió - AL",
+  "id" : "gustavo-costa",
+  "name" : "Gustavo Costa",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/speakers%2Fgustavo.jpg?alt=media&token=5dacc020-ef59-4ae2-a9af-974618705620",
+  "socials" : [ {
+    "icon" : "linkedin",
+    "link" : "https://www.linkedin.com/in/gustavocostaw/",
+    "name" : "LinkedIn"
+  }, {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/GustavoCostaW",
+    "name" : "Twitter"
+  }, {
+    "icon" : "facebook",
+    "link" : "https://www.facebook.com/GustavoCostaW",
+    "name" : "Facebook"
+  }, {
+    "icon" : "github",
+    "link" : "https://github.com/GustavoCostaW",
+    "name" : "GitHub"
+  } ],
+  "title" : "Front-end engineer na EadBox",
+  "sessions": {
+    "2017": [{
+      "tags" : [ "JavaScript", "Angular", "Ionic" ],
+      "title": "Angular Extreme performance",
+      "videoId": "4A3h7OipEUQ"
+    }]
+  },
+  "order": 0
+}

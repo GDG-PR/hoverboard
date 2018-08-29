@@ -1,0 +1,35 @@
+{
+  "bio" : "Nelson Glauber é mestre em Engenharia de Software pelo Centro de Estudos e Sistemas Avançados do Recife (CESAR). Trabalha com desenvolvimento de software desde 2002 e com a plataforma Android desde 2009. Atualmente é desenvolvedor Android na Mokriya e professor de tecnologias móveis em cursos de extensão e pós-graduação. Em 2014, foi nomeado pelo Google como primeiro Developer Expert de Android da América Latina. Também é autor do livro \"Dominando o Android\" publicado pela editora Novatec.",
+  "company" : "Mokriya",
+  "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/companies%2Fmokriya.png?alt=media&token=170fcb2d-ac77-48a4-b979-60672f64e3a8",
+  "country" : "Recife - PE",
+  "id" : "nelson",
+  "name" : "Nelson Glauber",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/speakers%2Fnelson.jpg?alt=media&token=eaf1b0c9-aef9-45da-ae9e-a27d18594e90",
+  "socials" : [ {
+    "icon" : "github",
+    "link" : "https://github.com/nglauber",
+    "name" : "GitHub"
+  }, {
+    "icon" : "facebook",
+    "link" : "https://www.facebook.com/nglaubervasc",
+    "name" : "Facebook"
+  }, {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/nglauber",
+    "name" : "Twitter"
+  }, {
+    "icon" : "website",
+    "link" : "http://www.nglauber.com.br",
+    "name" : "Site"
+  } ],
+  "title" : "Google Developer Expert",
+  "sessions": {
+    "2017": [{
+      "tags" : [ "Android", "Engineering", "Kotlin" ],
+      "title": "Turbinando o desenvolvimento Android com Kotlin",
+      "videoId": ""
+    }]
+  },
+  "order": 0
+}

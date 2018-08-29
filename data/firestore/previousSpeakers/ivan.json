@@ -1,0 +1,27 @@
+{
+  "bio" : "Graduado em Design pela UNIFACS. Especialista em Gestão de Projetos pela FGV; Gerente de Projetos Digital na Create Storm; Community Manager no GDG Ribeirão Preto - SP; Organizer do DevInterior; Professor convidado na Pós Graduação de Design do SENAC Ribeirão Preto.",
+  "company" : "Create Storm",
+  "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/companies%2Fcreatestorm.png?alt=media&token=291bdea1-5561-4c62-a6ad-6b702d1a7e12",
+  "country" : "Ribeirão Preto - SP",
+  "id" : "ivan",
+  "name" : "Ivan Scher",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/speakers%2Fivan.jpg?alt=media&token=12b14e2a-e632-47c6-9fe6-e7fce6f3a03b",
+  "socials" : [ {
+    "icon" : "linkedin",
+    "link" : "https://linkedin.com/in/ivanscher",
+    "name" : "LinkedIn"
+  }, {
+    "icon" : "facebook",
+    "link" : "https://www.facebook.com/ivanscher",
+    "name" : "Facebook"
+  } ],
+  "title" : "Especialista em Gestão de Projetos",
+  "sessions": {
+    "2017": [{
+      "tags" : [ "Entrepreneurship" ],
+      "title": "Planejamento colaborativo e visual de projetos com Project Model Canvas",
+      "videoId": ""
+    }]
+  },
+  "order": 0
+}

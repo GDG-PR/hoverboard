@@ -1,0 +1,35 @@
+{
+  "bio" : "Software Engineer, seasoned Android developer. Interested on JVM ecosystem in general, using and learning languages like Kotlin, Scala, related stacks and technologies. Working with Android applications since 2010.  Main focus on get apps done right, with best performance, decent UI and above all, rock-solid code.  Testable code practitioner, best practices advocate. Continuous delivery and build automation addicted.  Nominated Google Developer Expert for Android (2015), as well Intel Software Innovator for Android (2014)  Current interests : Android development, functional programming, reactive programming and other emerging, state of art development functional patterns for Android and modern Web applications.",
+  "company" : "Luiza Labs",
+  "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/companies%2Fluizalabs.png?alt=media&token=3b8901c8-e23d-410e-a82e-f3c9b8799a1e",
+  "country" : "São Paulo - SP",
+  "id" : "ubiratan",
+  "name" : "Ubiratan Soares",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/speakers%2Fubiratan.jpg?alt=media&token=7c30c0ca-aa7f-4828-8c8d-703e12b87007",
+  "socials" : [ {
+    "icon" : "linkedin",
+    "link" : "https://www.linkedin.com/in/ubiratanfsoares",
+    "name" : "LinkedIn"
+  }, {
+    "icon" : "github",
+    "link" : "https://github.com/ubiratansoares",
+    "name" : "GitHub"
+  }, {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/ubiratanfsoares",
+    "name" : "Twitter"
+  }, {
+    "icon" : "facebook",
+    "link" : "https://www.facebook.com/ubiratanfsoares",
+    "name" : "Facebook"
+  } ],
+  "title" : "Software Engineer na Luiza Labs",
+  "sessions": {
+    "2017": [{
+      "tags" : [ "Android", "Engineering" ],
+      "title": "Architecture Components Distilled",
+      "videoId": ""
+    }]
+  },
+  "order": 0
+}

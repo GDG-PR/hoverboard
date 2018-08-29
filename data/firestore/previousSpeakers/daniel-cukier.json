@@ -1,0 +1,39 @@
+{
+  "bio" : "Daniel is a Computer Science PhD Student at University of São Paulo – IME-USP. His PhD research in on Software Startups and Entrepreneurship. He Mastered in Computer Science in University of São Paulo in 2009, with the Thesis Patterns for Introducing New Ideas in the Software Industry.",
+  "company" : "Playax",
+  "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/companies%2Fplayax.png?alt=media&token=1cfe3f51-d6ea-41e5-a317-7eba3acbd2e1",
+  "country" : "São Paulo - SP",
+  "id" : "daniel-cukier",
+  "name" : "Daniel Cukier",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/speakers%2Fcukier.jpeg?alt=media&token=69db5696-0e43-42bb-ae57-225ed206ddaa",
+  "socials" : [ {
+    "icon" : "linkedin",
+    "link" : "https://www.linkedin.com/in/danielcukier",
+    "name" : "LinkedIn"
+  }, {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/danicuki",
+    "name" : "Twitter"
+  }, {
+    "icon" : "website",
+    "link" : "http://www.agileandart.com",
+    "name" : "Blog"
+  }, {
+    "icon" : "facebook",
+    "link" : "https://www.facebook.com/daniel.cukier",
+    "name" : "Facebook"
+  }, {
+    "icon" : "github",
+    "link" : "https://github.com/danicuki",
+    "name" : "GitHub"
+  } ],
+  "title" : "Google developer expert e CTO na Playax",
+  "sessions": {
+    "2017": [{
+      "tags" : [ "Cloud", "Web", "Engineering" ],
+      "title": "Eficiência e custo baixo: macetes para você economizar 50% do seu dinheiro com Google Cloud",
+      "videoId": ""
+    }]
+  },
+  "order": 0
+}

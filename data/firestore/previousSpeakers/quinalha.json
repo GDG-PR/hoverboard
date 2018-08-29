@@ -1,0 +1,31 @@
+{
+  "bio" : "Desenvolvedor front-end e Designer, apaixonado por CSS e projetos Open Source. Participa ativamente da comunidade de desenvolvedores, com palestras em diversos meetups do DevParaná e FEMUG-MGA.",
+  "company" : "Monk",
+  "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/companies%2Fmonk.svg?alt=media&token=b323fc88-b3fe-4f0c-98a0-06c71004123d",
+  "country" : "Maringá - PR",
+  "id" : "quinalha",
+  "name" : "Gustavo Quinalha",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/speakers%2Fquinalha.jpg?alt=media&token=3a53423e-ae13-4eeb-86e7-e82cdf9c8b47",
+  "socials" : [ {
+    "icon" : "github",
+    "link" : "https://github.com/gustavoquinalha",
+    "name" : "GitHub"
+  }, {
+    "icon" : "facebook",
+    "link" : "https://www.facebook.com/gquinalha",
+    "name" : "Facebook"
+  }, {
+    "icon" : "website",
+    "link" : "https://www.behance.net/gustavoquinalha",
+    "name" : "BeHance"
+  } ],
+  "title" : "Desenvolvedor front-end e Designer",
+  "sessions": {
+    "2017": [{
+      "tags" : [ "Web", "UI" ],
+      "title": "O maravilhoso mundo do CSS",
+      "videoId": "NS75HRVfdf0"
+    }]
+  },
+  "order": 0
+}

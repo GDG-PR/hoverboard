@@ -1,0 +1,39 @@
+{
+  "bio" : "Software engineer with +8 years experience. Mobile focused since 2010. Worked in global products with teams in 6 countries. Currently co-founder/engineer @ Craftlog (San Francisco, CA). Previously Cookpad, AllTheCooks and CRMALL. Biticker bitcoin ticker app creator. (#1 top paid finance app on Google Play Store)",
+  "company" : "Craftlog",
+  "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/companies%2Fcraftlog.png?alt=media&token=7260e4ee-852f-4f24-acb1-ed655e94dacd",
+  "country" : "Maringá - PR",
+  "id" : "peterman",
+  "name" : "Renato Peterman",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/speakers%2Frenato.jpg?alt=media&token=432a4c33-fca8-44f6-b9ec-156f0b31295e",
+  "socials" : [ {
+    "icon" : "github",
+    "link" : "http://github.com/renatopeterman",
+    "name" : "GitHub"
+  }, {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/renatopeterman",
+    "name" : "Twitter"
+  }, {
+    "icon" : "facebook",
+    "link" : "https://facebook.com/renatopeterman",
+    "name" : "Facebook"
+  }, {
+    "icon" : "linkedin",
+    "link" : "https://linkedin.com/in/renatopeterman",
+    "name" : "LinkedIn"
+  }, {
+    "icon" : "website",
+    "link" : "http://renatopeterman.com.br",
+    "name" : "Blog"
+  } ],
+  "title" : "Software engineer e co-founder da Craftlog",
+  "sessions": {
+    "2017": [{
+      "tags" : [ "Android", "UI", "UX" ],
+      "title": "Animações fluídas no Android",
+      "videoId": ""
+    }]
+  },
+  "order": 0
+}

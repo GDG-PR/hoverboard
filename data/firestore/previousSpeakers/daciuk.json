@@ -1,0 +1,35 @@
+{
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/speakers%2Fdaciuk.jpg?alt=media&token=b5d6020b-4abf-4af5-b261-92a6f40af9d5",
+  "socials" : [ {
+    "icon" : "facebook",
+    "link" : "https://www.facebook.com/fdaciuk",
+    "name" : "Facebook"
+  }, {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/fdaciuk",
+    "name" : "Twitter"
+  }, {
+    "icon" : "github",
+    "link" : "https://github.com/fdaciuk",
+    "name" : "GitHub+"
+  }, {
+    "icon" : "linkedin",
+    "link" : "https://www.linkedin.com/in/fdaciuk",
+    "name" : "LinkedIn"
+  } ],
+  "name" : "Fernando Daciuk",
+  "country" : "Curitiba - PR",
+  "bio" : "Desenvolvedor web desde 2002, trabalho como Full Stack developer, utilizando JavaScript em praticamente todos os meus projetos, boa parte deles com React e Node.js. Tenho como hobby ser professor e escrever para alguns blogs de tecnologia.",
+  "sessions": {
+    "2017": [{
+      "tags": [ "JavaScript", "Web" ],
+      "title": "The secrets of functions",
+      "videoId": "TtqvUHrUVuw"
+    }]
+  },
+  "id" : "daciuk",
+  "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/companies%2Fzimp.png?alt=media&token=cfc8d8db-8aa8-4d83-96d9-6b812bcb1ac3",
+  "title" : "Full-Stack developer na Zimp",
+  "order" : 0,
+  "company" : "Zimp"
+}

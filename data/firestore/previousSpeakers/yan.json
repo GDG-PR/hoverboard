@@ -1,0 +1,35 @@
+{
+  "bio" : "Yan Magalhães é full stack developer e graduado em Ciências da Computação. Apaixonado pela web, está sempre acompanhando as novas tecnologias e tendências. Participa sempre que pode dos eventos e encontros promovidos pela comunidade, e é um dos organizadores do GDG-BH e do FEMUG-MG. Procura contribuir em projetos Open Source e acredita muito no poder que as soluções desenvolvidas por nós, desenvolvedores, que podem mudar o dia-a-dia das pessoas. Adora uma boa conversa acompanhada de café e pão de queijo.",
+  "company" : "4YouSee",
+  "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/companies%2F4yousee.png?alt=media&token=02454f09-0ed6-4577-b0c1-48ad1bdb3482",
+  "country" : "Belo Horizonte - MG",
+  "id" : "yan",
+  "name" : "Yan Magalhães",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/speakers%2Fyan.jpg?alt=media&token=0c7a9411-0d99-47db-a66d-59e77cc88913",
+  "socials" : [ {
+    "icon" : "github",
+    "link" : "https://github.com/yanmagale",
+    "name" : "GitHub"
+  }, {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/yaanmagale",
+    "name" : "Twitter"
+  }, {
+    "icon" : "facebook",
+    "link" : "https://www.facebook.com/yaanmagalhaes",
+    "name" : "Facebook"
+  }, {
+    "icon" : "website",
+    "link" : "http://yanmagalhaes.com.br",
+    "name" : "Blog"
+  } ],
+  "title" : "Full Stack Developer",
+  "sessions": {
+    "2017": [{
+      "tags" : [ "Polymer", "Web" ],
+      "title": "Levando suas aplicações ao próximo nível com Polymer",
+      "videoId": "UV2OE871aDo"
+    }]
+  },
+  "order": 0
+}

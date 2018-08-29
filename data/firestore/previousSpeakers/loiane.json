@@ -1,0 +1,39 @@
+{
+  "bio" : " Possui 10+ anos de experiência em TI, trabalha como Analista de Sistemas e Desenvolvedora no Citibank e ama compartilhar conhecimento! Já palestrou por vários eventos no Brasil e ministrou cursos nos Estados Unidos. Autora dos livros: Ext JS 4 First Look, Mastering Ext JS (primeira e segunda edição), Sencha Architect App Development e Learning JavaScript Data Structures and Algorithms (primeira e segunda edição), JavaScript Regular Expressions - todos publicados pela editora Packt e lançados mundialmente em inglês (com tradução de alguns livros para chinês e coreano). Autora do livro Estrutura de Dados e Algoritmos em JavaScript, traduzido e publicado pela Novatec em português. Entusiasta Java, Sencha, Angular e mobile híbrido (Phonegap/Ionic). Participa ativamente dessas comunidades. Escreve para o blog http://loiane.com e publica aulas e cursos em http://loiane.training.",
+  "company" : "CitiBank",
+  "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/companies%2Fcitibank.png?alt=media&token=3f6221a2-c6ab-4d1e-a39f-b41a21ee7afc",
+  "country" : "São Paulo - SP",
+  "id" : "loiane",
+  "name" : "Loiane Groner",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/speakers%2Floiane.jpg?alt=media&token=f87b8e3d-94de-4cfe-88ff-8db6e0758ca6",
+  "socials" : [ {
+    "icon" : "github",
+    "link" : "https://github.com/loiane",
+    "name" : "GitHub"
+  }, {
+    "icon" : "linkedin",
+    "link" : "https://br.linkedin.com/in/loiane/pt",
+    "name" : "LinkedIn"
+  }, {
+    "icon" : "website",
+    "link" : "https://loiane.com",
+    "name" : "Site"
+  }, {
+    "icon" : "facebook",
+    "link" : "https://www.facebook.com/loianegroner",
+    "name" : "Facebook"
+  }, {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/loiane",
+    "name" : "Twitter"
+  } ],
+  "title" : "Dev FullStack e Escritora",
+  "sessions": {
+    "2017": [{
+      "tags" : [ "Angular", "JavaScript", "Reactive Programming", "Ionic" ],
+      "title": "Gerenciamento de estado no Angular com NgRx e programação reativa",
+      "videoId": "9taz2c-l2Yk"
+    }]
+  },
+  "order": 0
+}

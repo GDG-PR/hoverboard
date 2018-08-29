@@ -1,0 +1,31 @@
+{
+  "bio" : "Microsoft MVP em ASP.NET/IIS, trabalha com desenvolvimento de aplicações web desde 2003, com experiência em projetos de médio e grande porte no Brasil, EUA, Inglaterra e Holanda. Palestrante em grandes eventos como TDC e ASP.NET Conference, criador do ASP.NET CAST, trabalha ativamente com comunidades técnicas desde 2007, e mantém o título de MVP pela Microsoft desde 2013",
+  "company" : "Balta.io",
+  "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/companies%2Fbaltaio.svg?alt=media&token=9af0abcf-efe2-485f-8dc7-ab34f27d9c14",
+  "country" : "Piracicaba - SP",
+  "id" : "baltieri",
+  "name" : "André Baltieri",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/speakers%2Fbaltieri.jpg?alt=media&token=0dda6857-3509-49b3-8c0a-35eab9599078",
+  "socials" : [ {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/andrebaltieri",
+    "name" : "Twitter"
+  }, {
+    "icon" : "github",
+    "link" : "https://github.com/andrebaltieri",
+    "name" : "GitHub"
+  }, {
+    "icon" : "linkedin",
+    "link" : "https://www.linkedin.com/in/andre-baltieri-59246a26",
+    "name" : "LinkedIn"
+  } ],
+  "title" : "CEO na Balta.io",
+  "sessions": {
+    "2017": [{
+      "tags" : [ "Progressive Web Apps", "Firebase", "Ionic" ],
+      "title": "Progressive Web Apps e o mundo Web/Web Mobile",
+      "videoId": "yy2VfF68WAk"
+    }]
+  },
+  "order": 0
+}

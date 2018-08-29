@@ -1,0 +1,39 @@
+{
+  "bio" : "Organizador do grupo DevMT e do GDGCuiabá. Já deu cursos e palestras sobre diversos assuntos, em especial sobre desenvolvimento mobile com Ionic e React Native. Agora reviveu seu espirito maker a vem mantendo um blog sobre automação e internet das coisas. Tem experiência como desenvolvedor na startup Procurix e no Estuda.com. Atualmente analista de TI na SEFAZ-MT.",
+  "company" : "Sefaz-MT",
+  "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/companies%2Fsefazms.png?alt=media&token=619ac58f-6d5c-438b-84ff-5f8c2f22d332",
+  "country" : "Cuiabá - MT",
+  "id" : "alvaro",
+  "name" : "Alvaro Viebrantz",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/speakers%2Falvaro.jpg?alt=media&token=fc242acc-5e33-4a50-a6fc-3f6587a8263a",
+  "socials" : [ {
+    "icon" : "github",
+    "link" : "https://github.com/alvarowolfx",
+    "name" : "GitHub"
+  }, {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/alvaroviebrantz",
+    "name" : "Twitter"
+  }, {
+    "icon" : "facebook",
+    "link" : "https://facebook.com/alvarowolfx",
+    "name" : "Facebook"
+  }, {
+    "icon" : "linkedin",
+    "link" : "https://br.linkedin.com/in/alvaro-viebrantz-55119048",
+    "name" : "LinkedIn"
+  }, {
+    "icon" : "website",
+    "link" : "https://aviebrantz.com.br/",
+    "name" : "Blog"
+  } ],
+  "title" : "Full stack and Mobile Developer",
+  "sessions": {
+    "2017": [{
+      "tags" : [ "Android Things", "Machine Learning" ],
+      "title": "Android Things, Machine Learning e Máquinas de Doces",
+      "videoId": ""
+    }]
+  },
+  "order": 0
+}

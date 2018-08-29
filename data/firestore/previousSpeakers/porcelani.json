@@ -1,0 +1,35 @@
+{
+  "bio" : "Especialista em Eletrônica pela Marinha do Brasil, Bacharel em Ciência da Computação pela Universidade Estadual do Rio de Janeiro e com Especialização de Desenvolvimento Web pela Universidade Estadual de Maringá. Danilo Porcelani é desenvolvedor, entusiasta de métodos ágeis e um grande amante da área de Teste e Qualidade de software.",
+  "company" : "MATERA Systems",
+  "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/companies%2Fmatera.png?alt=media&token=cae669bc-004b-439c-b4b4-d4859c3d1c77",
+  "country" : "Maringá - PR",
+  "id" : "porcenali",
+  "name" : "Danilo Porcelani",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/speakers%2Fporcelani.jpg?alt=media&token=4cecae02-e599-4f7a-b4e2-1373198717be",
+  "socials" : [ {
+    "icon" : "github",
+    "link" : "https://github.com/porcelani",
+    "name" : "GitHub"
+  }, {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/PorcelaniDanilo",
+    "name" : "Twitter"
+  }, {
+    "icon" : "linkedin",
+    "link" : "https://www.linkedin.com/in/danilo-porcelani-25a1227a/",
+    "name" : "LinkedIn"
+  }, {
+    "icon" : "website",
+    "link" : "http://www.porcelani.com",
+    "name" : "Blog"
+  } ],
+  "title" : "Software Developer na MATERA Systems",
+  "sessions": {
+    "2017": [{
+      "tags" : [ "Engineering", "Quality", "Web" ],
+      "title": "Pare de testar em produção e comece a Mockar",
+      "videoId": ""
+    }]
+  },
+  "order": 0
+}

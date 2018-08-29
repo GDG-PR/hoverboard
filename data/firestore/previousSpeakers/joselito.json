@@ -1,0 +1,35 @@
+{
+  "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/speakers%2Fjoselito.jpg?alt=media&token=de9fa7a6-6fee-451e-9203-7b187983e53f",
+  "socials": [{
+    "icon": "facebook",
+    "link": "https://www.facebook.com/joselitojr",
+    "name": "Facebook"
+  },{
+    "icon": "twitter",
+    "link": "https://twitter.com/joselitojunior1",
+    "name": "Twitter"
+  },{
+    "icon": "github",
+    "link": "https://github.com/joselitojunior1",
+    "name": "GitHub"
+  },{
+    "icon": "linkedin",
+    "link": "https://www.linkedin.com/in/joselitojunior",
+    "name": "Linkedin"
+  }],
+  "name": "Joselito Junior",
+  "country": "Recife - PE",
+  "bio": "Joselito Júnior é front-ender, community manager no GDG Recife, instrutor na Tampa Works, youtuber, podcaster, pernambucano e recifense.  Sempre que sobra um tempinho, cria alguns projetos open source e contribuiu em outros, como o Brave Browser e o Ionic. É entrusiasta e usa no seu dia-a-dia PWA, Angular, Ionic, Preact, Next.js, Firebase, AMP e muitos outros pormenores. Já palestrou, organizou e contribuiu em eventos como DevFest, Campus Party, Code in the Dark, JSDay e Front Ins.",
+  "sessions": {
+    "2017": [{
+      "tags": ["Progressive Web Apps","Ionic","AMP"],
+      "title": "Accelerated Mobile Pages",
+      "videoId": "-3fqV9lVzsY"
+    }]
+  },
+  "id": "joselito",
+  "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2017.appspot.com/o/companies%2Ftampa.png?alt=media&token=de641479-fdbc-4b76-8c6d-7eb3b8a44058",
+  "title": "Instrutor na TampaWorks",
+  "order": 0,
+  "company": "Tampa Works"
+}
