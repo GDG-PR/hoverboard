@@ -104,8 +104,8 @@
     "label": "Localização",
     "name": "FEITEP",
     "city": "Maringá",
-    "short": "Maringá, Paraná",
-    "address": "Avenida Paranavaí, 1164 - Zona 06, Maringá",
+    "short": "FEITEP, Maringá, Paraná",
+    "address": "FEITEP, Avenida Paranavaí, 1164 - Zona 06, Maringá",
     "pointer": {
       "latitude": -23.423124,
       "longitude": -51.970984,
@@ -115,7 +115,7 @@
       "latitude": -23.423124,
       "longitude": -52.3
     },
-    "description": "Instalações amplas com novíssimo auditório, muito bem estruturado e com capacidade acomodar mais de 300 participates"
+    "description": "A FEITEP conta com instalações amplas e com novíssimo auditório, muito bem estruturado e com capacidade acomodar mais de 300 participates"
   },
   "mediaQueries": {
     "xs": {

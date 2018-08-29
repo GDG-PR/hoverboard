@@ -37,7 +37,17 @@
       "links": [
         {
           "name": "GDG Maringá",
-          "url": "http://gdg.maringa.br/",
+          "url": "http://gdg.maringa.br",
+          "newTab": true
+        },
+        {
+          "name": "GDG Toledo",
+          "url": "https://www.meetup.com/GDG-Toledo-PR",
+          "newTab": true
+        },
+        {
+          "name": "GDG Cascavel",
+          "url": "https://www.meetup.com/GDG-Cascavel",
           "newTab": true
         },
         {
