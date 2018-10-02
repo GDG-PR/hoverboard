@@ -115,7 +115,7 @@
   },
   "ticketsBlock": {
     "title": "Ingressos",
-    "ticketsDetails": "Os ingressos concedem acesso a todas as seções da conferência, coffee breaks, almoço e festa. O alojamento NÃO está incluído no preço do bilhete.",
+    "ticketsDetails": "Os ingressos concedem acesso a todas as seções da conferência, coffee breaks e festa. O alojamento e almoço NÃO estão incluídos no preço do bilhete.",
     "soldOut": "Encerrado!",
     "notAvailableYet": "Indisponível",
     "save": "Garanta ${discount}% hoje"
