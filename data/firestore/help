@@ -1,0 +1,1 @@
+yarn firestore:copy ./data/firestore/speakers/example.json speakers/example

@@ -1,0 +1,40 @@
+{
+  "order": 0,
+  "featured": false,
+  "company": "Juicymo",
+  "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+  "socials": [{
+    "icon": "gplus",
+    "link": "https://plus.google.com/+JanaMoudrá/posts",
+    "name": "Google+"
+  }, {
+    "name": "Twitter",
+    "icon": "twitter",
+    "link": "https://twitter.com/Janamou"
+  }, {
+    "name": "LinkedIn",
+    "icon": "linkedin",
+    "link": "https://cz.linkedin.com/in/janamoudra"
+  }, {
+    "name": "GitHub",
+    "icon": "github",
+    "link": "https://github.com/Janamou"
+  }],
+  "country": "Prague, Czech Republic",
+  "bio": "GDE (Google Developer Expert) for Dart. Jana is a passionate developer and modern web and mobile technology evangelist. She is an event organiser for GDG Prague, where she arranges events for developers including public lectures, code labs and hackathons – covering a wide range of subjects including technologies Dart or Android. She loves to help other developers and spread the knowledge about these technologies. \n\nJana co-founded a company called Juicymo, where she works on juicy apps and products and teaches at Unicorn College.",
+  "badges": [{
+    "description": "Dart Google Developer Expert",
+    "link": "https://developers.google.com/experts/people/jana-moudr.html",
+    "name": "gde"
+  }, {
+    "description": "Google Developers Group Prague",
+    "link": "https://developers.google.com/groups/chapter/111919016509847766513/",
+    "name": "gdg"
+  }],
+  "shortBio": "GDG Prague organizer. Android and Dart enthusiast. Co-founder of a company called Juicymo.",
+  "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/jana_moudra.jpg",
+  "name": "Jana Moudra",
+  "companyLogo": "/images/logos/gdg-lviv.svg",
+  "title": "Co-Founder",
+  "photo": "/images/people/jana_moudra.jpg"
+}
