@@ -1,0 +1,28 @@
+{
+  "order": 12,
+  "featured": true,
+  "name": "Marcel Gonçalves",
+  "title": "",
+  "company": "Editora Três",
+  "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Feditora-tres.jpg?alt=media&token=501a996c-c9a6-4011-ac80-2bbdd48c476c",
+  "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Feditora-tres.jpg?alt=media&token=501a996c-c9a6-4011-ac80-2bbdd48c476c",
+  "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Fmarcel-goncalves.jpeg?alt=media&token=a565dd82-5b92-4a0b-a468-bc4af36c0aec",
+  "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Fmarcel-goncalves.jpeg?alt=media&token=a565dd82-5b92-4a0b-a468-bc4af36c0aec",
+  "country": "Guarulhos, São Paulo",
+  "socials": [{
+    "name": "Facebook",
+    "icon": "facebook",
+    "link": "https://www.facebook.com/marcelgsantos"
+  }, {
+    "name": "LinkedIn",
+    "icon": "linkedin",
+    "link": "https://www.linkedin.com/in/marcelgsantos"
+  }, {
+    "name": "GitHub",
+    "icon": "github",
+    "link": "https://github.com/marcelgsantos"
+  }],
+  "badges": [],
+  "bio": "",
+  "shortBio": ""
+}

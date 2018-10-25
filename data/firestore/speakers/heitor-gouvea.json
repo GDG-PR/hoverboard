@@ -1,0 +1,28 @@
+{
+	"order": 4,
+	"featured": false,
+	"company": "",
+	"companyLogoUrl": "",
+	"socials": [{
+		"name": "Twitter",
+		"icon": "twitter",
+		"link": "https://twitter.com/GouveaHeitor"
+	}, {
+		"name": "LinkedIn",
+		"icon": "linkedin",
+		"link": "https://www.linkedin.com/in/gouveaheitor/"
+	}, {
+		"name": "GitHub",
+		"icon": "github",
+		"link": "https://github.com/GouveaHeitor"
+	}],
+	"country": "Campinas, São Paulo",
+	"bio": "Instrutor e Pesquisador de Cibersegurança com mais de 3 anos de experiência na área de segurança ofensiva. Autor da ferramenta de anonimato Nipe, presente em várias distribuições Linux focadas em segurança da informação como por exemplo o BlackArch, LionSec e WeakNet. https://heitorgouvea.me",
+	"badges": [],
+	"shortBio": "Instrutor e Pesquisador de Cibersegurança com mais de 3 anos de experiência na área de segurança ofensiva",
+	"photoUrl": "https://hacktown.com.br/box/uploads/2018/06/1_dkuQDUWPcyh0raHauMU_1g.jpeg",
+	"name": "Heitor Gouvêa",
+	"companyLogo": "",
+	"title": "",
+	"photo": ""
+}

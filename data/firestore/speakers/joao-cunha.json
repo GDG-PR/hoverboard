@@ -1,0 +1,32 @@
+{
+  "order": 13,
+  "featured": true,
+  "name": "João Cunha",
+  "title": "Product Manager",
+  "company": "Foregon",
+  "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Fforegon.png?alt=media&token=9bc58600-f6ed-4214-8b3a-4aa4c253da1b",
+  "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Fforegon.png?alt=media&token=9bc58600-f6ed-4214-8b3a-4aa4c253da1b",
+  "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Fjoao-cunha.jpg?alt=media&token=e53007d5-9d8e-4b1e-b91f-eb62f7ce0314",
+  "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Fjoao-cunha.jpg?alt=media&token=e53007d5-9d8e-4b1e-b91f-eb62f7ce0314",
+  "country": "Presidente Prudente, São Paulo",
+  "socials": [{
+    "name": "Twitter",
+    "icon": "twitter",
+    "link": "https://twitter.com/joaocunha"
+  }, {
+    "name": "LinkedIn",
+    "icon": "linkedin",
+    "link": "https://www.linkedin.com/in/joaocunhadev"
+  }, {
+    "name": "GitHub",
+    "icon": "github",
+    "link": "https://github.com/joaocunha"
+  }],
+  "badges": [{
+    "description": "GDG Presidente Prudente",
+    "link": "https://gdgprudente.org",
+    "name": "gdg"
+  }],
+  "bio": "",
+  "shortBio": ""
+}

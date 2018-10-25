@@ -1,0 +1,20 @@
+{
+  "order": 8,
+  "featured": true,
+  "name": "Henrique Silva",
+  "title": "",
+  "company": "BMSIX",
+  "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Fbmsix.png?alt=media&token=d96dfe42-3038-42db-9ece-624a989ecc51",
+  "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Fbmsix.png?alt=media&token=d96dfe42-3038-42db-9ece-624a989ecc51",
+  "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Fhenrique-silva.jpeg?alt=media&token=2aa8bb72-1848-49fe-a07a-df09b36f213f",
+  "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Fhenrique-silva.jpeg?alt=media&token=2aa8bb72-1848-49fe-a07a-df09b36f213f",
+  "country": "São Paulo, SP",
+  "socials": [{
+    "name": "LinkedIn",
+    "icon": "linkedin",
+    "link": "https://www.linkedin.com/in/henriquedsilva/"
+  }],
+  "badges": [],
+  "bio": "",
+  "shortBio": ""
+}

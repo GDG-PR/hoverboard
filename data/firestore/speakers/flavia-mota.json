@@ -1,0 +1,20 @@
+{
+  "order": 10,
+  "featured": false,
+  "name": "Flávia Mota",
+  "title": "",
+  "company": "",
+  "companyLogo": "",
+  "companyLogoUrl": "",
+  "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Fflavia-mota.jpeg?alt=media&token=341f93f6-266c-4b7a-a1cf-a2459d33157a",
+  "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Fflavia-mota.jpeg?alt=media&token=341f93f6-266c-4b7a-a1cf-a2459d33157a",
+  "country": "Montevidéu, Uruguai",
+  "socials": [{
+    "name": "GitHub",
+    "icon": "github",
+    "link": "https://github.com/naujosks"
+  }],
+  "badges": [],
+  "bio": "",
+  "shortBio": ""
+}

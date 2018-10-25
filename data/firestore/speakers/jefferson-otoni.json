@@ -1,0 +1,28 @@
+{
+  "order": 15,
+  "featured": true,
+  "name": "Jefferson Otoni",
+  "title": "CEO & Founder",
+  "company": "S3WF",
+  "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Fs3wf.png?alt=media&token=4568e47e-2f56-4b22-92d7-f46c9a74b614",
+  "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Fs3wf.png?alt=media&token=4568e47e-2f56-4b22-92d7-f46c9a74b614",
+  "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Fjefferson-otoni.jpeg?alt=media&token=a137aff4-31ff-4483-ad70-f455ca8b9fd4",
+  "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Fjefferson-otoni.jpeg?alt=media&token=a137aff4-31ff-4483-ad70-f455ca8b9fd4",
+  "country": "Belo Horizonte, Minas Gerais",
+  "socials": [{
+    "name": "Twitter",
+    "icon": "twitter",
+    "link": "https://twitter.com/jeffotoni"
+  }, {
+    "name": "LinkedIn",
+    "icon": "linkedin",
+    "link": "https://www.linkedin.com/in/jeffotoni"
+  }, {
+    "name": "GitHub",
+    "icon": "github",
+    "link": "https://github.com/jeffotoni"
+  }],
+  "badges": [],
+  "bio": "",
+  "shortBio": ""
+}

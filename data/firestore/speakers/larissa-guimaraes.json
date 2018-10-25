@@ -1,0 +1,28 @@
+{
+	"order": 2,
+	"featured": false,
+	"company": "Terras App Solutions",
+	"companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFS0Rf5JaNsqQ/company-logo_200_200/0?e=1548288000&v=beta&t=4NLlxTBDXd4n4-55w5jF_yby7ZuO_OR8hj1EAvKMxbA",
+	"socials": [{
+		"name": "Twitter",
+		"icon": "twitter",
+		"link": "https://twitter.com/LaraSGuimaraes"
+	}, {
+		"name": "LinkedIn",
+		"icon": "linkedin",
+		"link": "https://www.linkedin.com/in/larissa-guimar%C3%A3es-6613182b/"
+	}, {
+		"name": "GitHub",
+		"icon": "github",
+		"link": "https://github.com/LarissaSI09"
+	}],
+	"country": "Belém, Pará",
+	"bio": "",
+	"badges": [],
+	"shortBio": "",
+	"photoUrl": "https://media.licdn.com/dms/image/C4D03AQExWWqhHpy0iQ/profile-displayphoto-shrink_800_800/0?e=1545868800&v=beta&t=ohW18YshQ1uP7_pafa8QsUI6Xa5LUi7gdWGZ3NibUyQ",
+	"name": "Larissa Guimarães",
+	"companyLogo": "",
+	"title": "Developer Mobile (Android)",
+	"photo": ""
+}

@@ -1,0 +1,28 @@
+{
+  "order": 7,
+  "featured": true,
+  "name": "Ana Coimbra",
+  "title": "Android & Web Developer | UX/UI Enthusiast",
+  "company": "Kobe",
+  "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Fkobe.png?alt=media&token=01c15e6c-ac7a-4091-bd2a-6822aed56bd8",
+  "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Fkobe.png?alt=media&token=01c15e6c-ac7a-4091-bd2a-6822aed56bd8",
+  "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Fana-coimbra.jpeg?alt=media&token=cc5badf2-135e-4d10-892e-c94deff32b47",
+  "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Fana-coimbra.jpeg?alt=media&token=cc5badf2-135e-4d10-892e-c94deff32b47",
+  "country": "Belo Horizonte, Minas Gerais",
+  "socials": [{
+    "name": "Twitter",
+    "icon": "twitter",
+    "link": "https://twitter.com/anacoimbrag"
+  }, {
+    "name": "LinkedIn",
+    "icon": "linkedin",
+    "link": "https://www.linkedin.com/in/anacoimbrag"
+  }, {
+    "name": "GitHub",
+    "icon": "github",
+    "link": "https://github.com/anacoimbrag"
+  }],
+  "badges": [],
+  "bio": "",
+  "shortBio": ""
+}

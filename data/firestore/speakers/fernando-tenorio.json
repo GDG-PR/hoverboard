@@ -1,0 +1,28 @@
+{
+  "order": 14,
+  "featured": true,
+  "name": "Fernando Tenório",
+  "title": "",
+  "company": "TecnoSpeed",
+  "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Ftecnospeed.png?alt=media&token=9659d0f7-1706-4d52-b440-b7b3f6bc1692",
+  "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Ftecnospeed.png?alt=media&token=9659d0f7-1706-4d52-b440-b7b3f6bc1692",
+  "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Ffernando-tenorio.jpeg?alt=media&token=80d0075a-85d4-48c0-badf-8de19238ea5f",
+  "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Ffernando-tenorio.jpeg?alt=media&token=80d0075a-85d4-48c0-badf-8de19238ea5f",
+  "country": "Maringá, Paraná",
+  "socials": [{
+    "name": "Twitter",
+    "icon": "twitter",
+    "link": "https://twitter.com/dotenorio"
+  }, {
+    "name": "Facebook",
+    "icon": "facebook",
+    "link": "https://www.facebook.com/dotenorio"
+  }, {
+    "name": "GitHub",
+    "icon": "github",
+    "link": "https://github.com/dotenorio"
+  }],
+  "badges": [],
+  "bio": "",
+  "shortBio": ""
+}

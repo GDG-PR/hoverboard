@@ -1,0 +1,32 @@
+{
+  "order": 5,
+  "featured": false,
+  "company": "ThoughtWorks",
+  "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQEeFZ9AsucsQA/company-logo_200_200/0?e=1548288000&v=beta&t=NI8RJRLDM7tiah0N_R8Cuqwa677tV1XD1sog4Smtz8s",
+  "socials": [{
+    "name": "Twitter",
+    "icon": "twitter",
+    "link": "https://twitter.com/danicat83"
+  }, {
+    "name": "LinkedIn",
+    "icon": "linkedin",
+    "link": "https://www.linkedin.com/in/petruzalek/"
+  }, {
+    "name": "GitHub",
+    "icon": "github",
+    "link": "https://github.com/danicat"
+  }],
+  "country": "Porto Alegre, Brasil",
+  "bio": "Formada em Análise e Desenvolvimento de Sistemas, possui mais de 12 anos de experiência na área de TI. Líder de comunidades e ativista pela diversidade e inclusão feminina na área de TI, Daniela rompe importantes barreiras a cada dia e mostra que ainda temos muito a evoluir.",
+  "badges": [{
+    "description": "Google Cloud Platform Expert",
+    "link": "https://developers.google.com/experts/people/daniela-petruzalek",
+    "name": "gde"
+  }],
+  "shortBio": "Google Developer Expert e Consultora de desenvolvimento na ThoughtWorks",
+  "photoUrl": "https://developers.google.com/experts/img/user/116617157941138038768.jpg",
+  "name": "Daniela Petruzalek",
+  "companyLogo": "",
+  "title": "Consultora de Desenvolvimento Sênior",
+  "photo": ""
+}

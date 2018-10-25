@@ -1,0 +1,28 @@
+{
+  "order": 11,
+  "featured": true,
+  "name": "Sheimy Rahman",
+  "title": "Software Engineer Internship at Trinca",
+  "company": "Trinca",
+  "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Ftrinca.png?alt=media&token=ecac7287-d6f8-4991-9f2b-b08a4f692a14",
+  "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Ftrinca.png?alt=media&token=ecac7287-d6f8-4991-9f2b-b08a4f692a14",
+  "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Fsheimy.jpeg?alt=media&token=f0628673-9234-4cf1-a9fb-6b3426e0f08d",
+  "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Fsheimy.jpeg?alt=media&token=f0628673-9234-4cf1-a9fb-6b3426e0f08d",
+  "country": "Porto Alegre, Rio Grande do Sul",
+  "socials": [{
+    "name": "Site",
+    "icon": "website",
+    "link": "https://medium.com/@sheimyrahman"
+  }, {
+    "name": "LinkedIn",
+    "icon": "linkedin",
+    "link": "https://www.linkedin.com/in/sheimyrahman"
+  }, {
+    "name": "GitHub",
+    "icon": "github",
+    "link": "https://github.com/Wdrwoman"
+  }],
+  "badges": [],
+  "bio": "",
+  "shortBio": ""
+}
