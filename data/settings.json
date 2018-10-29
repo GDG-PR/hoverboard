@@ -27,9 +27,9 @@
       "label": "Palestrantes"
     },
     {
-      "route": "blog",
-      "permalink": "/blog/",
-      "label": "Notícias"
+      "route": "schedule",
+      "permalink": "/schedule/",
+      "label": "Agenda"
     }
   ],
   "heroSettings": {
@@ -137,7 +137,7 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
+        "url": "https://www.meetup.com/pt-BR/GDG-Maringa/events/251472656/"
       },
       {
         "name": "facebook",

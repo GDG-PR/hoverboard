@@ -1,0 +1,175 @@
+{
+  "dateReadable": "24 de Novembro",
+  "date": "2018-11-24",
+  "timeslots": [
+    {
+      "startTime": "08:30",
+      "endTime": "09:15",
+      "sessions": [
+        {
+          "items": [ "credenciamento" ]
+        }
+      ]
+    },
+    {
+      "startTime": "09:15",
+      "endTime": "09:50",
+      "sessions": [
+        {
+          "items": [ "keynote" ]
+        }
+      ]
+    },
+    {
+      "startTime": "09:50",
+      "endTime": "10:40",
+      "sessions": [
+        {
+          "items": [ "lucas-arruda" ]
+        },
+        {
+          "items": [ "flavia-mota" ]
+        },
+        {
+          "items": [ "codelab" ],
+          "extend": 3
+        }
+      ]
+    },
+    {
+      "startTime": "10:40",
+      "endTime": "11:30",
+      "sessions": [
+        {
+          "items": [ "larissa-guimaraes" ]
+        },
+        {
+          "items": [ "sheimy-rahman" ]
+        }
+      ]
+    },
+    {
+      "startTime": "11:30",
+      "endTime": "12:20",
+      "sessions": [
+        {
+          "items": [ "ana-coimbra" ]
+        },
+        {
+          "items": [ "painel" ]
+        }
+      ]
+    },
+    {
+      "startTime": "12:20",
+      "endTime": "13:50",
+      "sessions": [
+        {
+          "items": [ "almoco" ]
+        }
+      ]
+    },
+    {
+      "startTime": "13:50",
+      "endTime": "14:40",
+      "sessions": [
+        {
+          "items": [ "henrique-silva" ]
+        },
+        {
+          "items": [ "marcel-goncalves" ]
+        },
+        {
+          "items": [ "codelab" ],
+          "extend": 6
+        }
+      ]
+    },
+    {
+      "startTime": "14:40",
+      "endTime": "15:30",
+      "sessions": [
+        {
+          "items": [ "daniela-petruzalek" ]
+        },
+        {
+          "items": [ "joao-cunha" ]
+        }
+      ]
+    },
+    {
+      "startTime": "15:30",
+      "endTime": "16:00",
+      "sessions": [
+        {
+          "items": [ "coffee" ]
+        }
+      ]
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "16:50",
+      "sessions": [
+        {
+          "items": [ "heitor-gouvea" ]
+        },
+        {
+          "items": [ "fernando-tenorio" ]
+        }
+      ]
+    },
+    {
+      "startTime": "16:50",
+      "endTime": "17:40",
+      "sessions": [
+        {
+          "items": [ "thadeu-luz" ]
+        },
+        {
+          "items": [ "jefferson-otoni" ]
+        }
+      ]
+    },
+    {
+      "startTime": "17:40",
+      "endTime": "18:20",
+      "sessions": [
+        {
+          "items": [ "rodrigo-nonose" ]
+        },
+        {
+          "items": [ "jaime-flores" ]
+        }
+      ]
+    },
+    {
+      "startTime": "18:20",
+      "endTime": "18:50",
+      "sessions": [
+        {
+          "items": [ "encerramento" ]
+        }
+      ]
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "22:00",
+      "sessions": [
+        {
+          "items": [ "festa" ]
+        }
+      ]
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Track 1"
+    },
+    {
+      "title": "Track 2"
+    },
+    {
+      "title": "Codelabs"
+    }
+  ]
+}

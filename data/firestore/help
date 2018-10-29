@@ -1,1 +1,26 @@
-yarn firestore:copy ./data/firestore/speakers/example.json speakers/example
+yarn firestore:copy ./data/firestore/sessions/credenciamento.json sessions/credenciamento
+yarn firestore:copy ./data/firestore/sessions/keynote.json sessions/keynote
+yarn firestore:copy ./data/firestore/sessions/codelab.json sessions/codelab
+yarn firestore:copy ./data/firestore/sessions/painel.json sessions/painel
+yarn firestore:copy ./data/firestore/sessions/almoco.json sessions/almoco
+yarn firestore:copy ./data/firestore/sessions/coffee.json sessions/coffee
+yarn firestore:copy ./data/firestore/sessions/encerramento.json sessions/encerramento
+yarn firestore:copy ./data/firestore/sessions/festa.json sessions/festa
+
+yarn firestore:copy ./data/firestore/sessions/lucas-arruda.json sessions/lucas-arruda
+yarn firestore:copy ./data/firestore/sessions/flavia-mota.json sessions/flavia-mota
+yarn firestore:copy ./data/firestore/sessions/larissa-guimaraes.json sessions/larissa-guimaraes
+yarn firestore:copy ./data/firestore/sessions/sheimy-rahman.json sessions/sheimy-rahman
+yarn firestore:copy ./data/firestore/sessions/ana-coimbra.json sessions/ana-coimbra
+yarn firestore:copy ./data/firestore/sessions/henrique-silva.json sessions/henrique-silva
+yarn firestore:copy ./data/firestore/sessions/marcel-goncalves.json sessions/marcel-goncalves
+yarn firestore:copy ./data/firestore/sessions/daniela-petruzalek.json sessions/daniela-petruzalek
+yarn firestore:copy ./data/firestore/sessions/joao-cunha.json sessions/joao-cunha
+yarn firestore:copy ./data/firestore/sessions/heitor-gouvea.json sessions/heitor-gouvea
+yarn firestore:copy ./data/firestore/sessions/fernando-tenorio.json sessions/fernando-tenorio
+yarn firestore:copy ./data/firestore/sessions/thadeu-luz.json sessions/thadeu-luz
+yarn firestore:copy ./data/firestore/sessions/jefferson-otoni.json sessions/jefferson-otoni
+yarn firestore:copy ./data/firestore/sessions/rodrigo-nonose.json sessions/rodrigo-nonose
+yarn firestore:copy ./data/firestore/sessions/jaime-flores.json sessions/jaime-flores
+
+yarn firestore:copy ./data/firestore/schedule.json schedule/2018-11-24
