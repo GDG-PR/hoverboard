@@ -1,34 +1,32 @@
 {
-  "order": 6,
-  "featured": true,
-  "company": "Hand Talk",
-  "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Fhandtalk.svg?alt=media&token=c537d238-31d5-4277-b18f-1eff861b6d82",
-  "socials": [{
-    "name": "Twitter",
-    "icon": "twitter",
-    "link": "https://twitter.com/thadeuluz"
-    },{
-    "name": "LinkedIn",
-    "icon": "linkedin",
-    "link": "https://www.linkedin.com/in/thadeuluz/"
-  }, {
-    "name": "GitHub",
-    "icon": "github",
-    "link": "https://github.com/ThadeuLuz"
+  "badges": [{
+    "link": "https://developers.google.com/experts/people/thadeu-luz",
+    "name": "gde",
+    "description": "Firebase Google Developer Expert"
   }],
-  "country": "Maceió, Brasil",
-  "bio": "Thadeu Luz é desenvolvedor e empreendedor apaixonado e pragmático, com background em Animação 3D e VFX. Adora construir, consertar (e quebrar) coisas e resolver problemas difíceis com código, café e criatividade. CPO e Fundador da Hand Talk e Google Developer Expert de Firebase.",
-  "badges": [
-    {
-      "description": "Firebase Google Developer Expert",
-      "link": "https://developers.google.com/experts/people/thadeu-luz",
-      "name": "gde"
-    }
-  ],
   "shortBio": "Firebase Google Developer Expert, CPO e fundador da Hand Talk",
   "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Fthadeu.jpeg?alt=media&token=c74646ad-d003-47e9-af46-7181aee75a2a",
   "name": "Thadeu Luz",
   "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Fhandtalk.svg?alt=media&token=c537d238-31d5-4277-b18f-1eff861b6d82",
   "title": "CPO/Fundador",
-  "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Fthadeu.jpeg?alt=media&token=c74646ad-d003-47e9-af46-7181aee75a2a"
+  "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Fthadeu.jpeg?alt=media&token=c74646ad-d003-47e9-af46-7181aee75a2a",
+  "order": 6,
+  "featured": true,
+  "company": "Hand Talk",
+  "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Fhandtalk.svg?alt=media&token=c537d238-31d5-4277-b18f-1eff861b6d82",
+  "socials": [{
+    "icon": "twitter",
+    "link": "https://twitter.com/thadeuluz",
+    "name": "Twitter"
+  }, {
+    "icon": "linkedin",
+    "link": "https://www.linkedin.com/in/thadeuluz/",
+    "name": "LinkedIn"
+  }, {
+    "icon": "github",
+    "link": "https://github.com/ThadeuLuz",
+    "name": "GitHub"
+  }],
+  "country": "Maceió, Alagoas",
+  "bio": "Thadeu Luz é desenvolvedor e empreendedor apaixonado e pragmático, com background em Animação 3D e VFX. Adora construir, consertar (e quebrar) coisas e resolver problemas difíceis com código, café e criatividade. CPO e Fundador da Hand Talk e Google Developer Expert de Firebase."
 }

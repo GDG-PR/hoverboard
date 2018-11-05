@@ -1,12 +1,18 @@
 {
+  "shortBio": "Google Developer Expert em Cloud, Fundador da comunidade de Google Cloud de Campinas e Arquiteto de Software na CI&T",
+  "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Flucas-arruda.jpg?alt=media&token=8535faa5-dbf3-4d58-bfd7-2543fb4d2bd4",
+  "name": "Lucas Arruda",
+  "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Fciet.png?alt=media&token=27356336-ee3e-4e10-a4e2-a39cf355a01f",
+  "title": "Software Architect",
+  "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Flucas-arruda.jpg?alt=media&token=8535faa5-dbf3-4d58-bfd7-2543fb4d2bd4",
   "order": 1,
   "featured": true,
   "company": "CI&T",
   "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Fciet.png?alt=media&token=27356336-ee3e-4e10-a4e2-a39cf355a01f",
   "socials": [{
+    "name": "Google+",
     "icon": "gplus",
-    "link": "https://plus.google.com/+LucasArruda",
-    "name": "Google+"
+    "link": "https://plus.google.com/+LucasArruda"
   }, {
     "name": "Twitter",
     "icon": "twitter",
@@ -16,25 +22,19 @@
     "icon": "linkedin",
     "link": "https://www.linkedin.com/in/larruda/"
   }, {
-    "name": "GitHub",
     "icon": "github",
-    "link": "https://github.com/larruda"
+    "link": "https://github.com/larruda",
+    "name": "GitHub"
   }],
-  "country": "Campinas, Brasil",
+  "country": "Campinas, São Paulo",
   "bio": "Lucas Arruda trabalha com TI há mais de 10 anos. Apesar de ter bastante experiência com Web, nos últimos 5 anos mudou seu foco para Computação em Nuvem, se especializando em Engenharia de Dados e Big Data. Recentemente obteve as duas certificações de Google Cloud e foi considerado Cloud Developer Expert pela gigante de Mountain View. Atualmente trabalha como Arquiteto de Software na CI&T em Campinas/SP, em projetos para clientes internacionais. Além disso, é fundador voluntário da comunidade de Google Cloud Developers de Campinas, que possui o objetivo de fomentar a tecnologia na região. Lucas é fã de metodologias ágeis, processos e melhoria contínua, equilibrando tudo a fim de permitir agilidade e inovação sem perder visibilidade e controle.",
   "badges": [{
+    "name": "gde",
     "description": "Google Cloud Platform Developer Expert",
-    "link": "https://developers.google.com/experts/people/lucas-arruda",
-    "name": "gde"
+    "link": "https://developers.google.com/experts/people/lucas-arruda"
   }, {
-    "description": "Google Developers Group Campinas",
-    "link": "https://www.meetup.com/pt-BR/gdgcampinas/",
-    "name": "gdg"
-  }],
-  "shortBio": "Fundador do GDG Campinas. Google Cloud Platform Developer Expert. Arquiteto de Software na CI&T em Campinas/SP.",
-  "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Flucas-arruda.jpg?alt=media&token=8535faa5-dbf3-4d58-bfd7-2543fb4d2bd4",
-  "name": "Lucas Arruda",
-  "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Fciet.png?alt=media&token=27356336-ee3e-4e10-a4e2-a39cf355a01f",
-  "title": "Software Architect",
-  "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Flucas-arruda.jpg?alt=media&token=8535faa5-dbf3-4d58-bfd7-2543fb4d2bd4"
+    "name": "gdg",
+    "description": "Google Cloud Developers Campinas",
+    "link": "https://www.meetup.com/pt-BR/Google-Cloud-Developer-Community-Campinas/"
+  }]
 }

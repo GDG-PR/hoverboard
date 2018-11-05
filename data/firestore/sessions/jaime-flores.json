@@ -1,7 +1,7 @@
 {
   "complexity" : "Intermediate",
-  "description" : "",
+  "description" : "Você alguma vez já imaginou que seria possível construir uma máquina do tempo? Nesta palestra você irá desvendar o Event Sourcing com exemplos de um caso real de implementação em uma arquitetura distribuída",
   "speakers" : [ "jaime-flores" ],
   "tags" : [ "Development" ],
-  "title" : "Microservices Journey"
+  "title" : "How I built a time machine: Event Sourcing"
 }

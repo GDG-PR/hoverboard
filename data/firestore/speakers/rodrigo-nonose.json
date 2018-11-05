@@ -1,14 +1,11 @@
 {
+  "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Fem-casa.png?alt=media&token=6b5d53a1-70d1-4219-b4fc-d58b54f7d1fe",
+  "title": "",
+  "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Fnonose.png?alt=media&token=0b39285f-01dd-47a1-aab8-ccaf099b0f51",
   "order": 9,
   "featured": true,
-  "name": "Rodrigo Nonose",
-  "title": "",
   "company": "Em Casa",
-  "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Fem-casa.png?alt=media&token=6b5d53a1-70d1-4219-b4fc-d58b54f7d1fe",
   "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Fem-casa.png?alt=media&token=6b5d53a1-70d1-4219-b4fc-d58b54f7d1fe",
-  "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Fnonose.png?alt=media&token=0b39285f-01dd-47a1-aab8-ccaf099b0f51",
-  "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Fnonose.png?alt=media&token=0b39285f-01dd-47a1-aab8-ccaf099b0f51",
-  "country": "Maringá, Paraná",
   "socials": [{
     "name": "Twitter",
     "icon": "twitter",
@@ -17,16 +14,19 @@
     "name": "LinkedIn",
     "icon": "linkedin",
     "link": "https://www.linkedin.com/in/rodrigononose"
-  },{
-    "name": "Facebook",
+  }, {
     "icon": "facebook",
-    "link": "https://www.facebook.com/rodrigo.nonose"
+    "link": "https://www.facebook.com/rodrigo.nonose",
+    "name": "Facebook"
   }, {
     "name": "GitHub",
     "icon": "github",
     "link": "https://github.com/rhnonose"
   }],
-  "badges": [],
+  "country": "Maringá, Paraná",
   "bio": "",
-  "shortBio": ""
+  "badges": [],
+  "shortBio": "",
+  "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Fnonose.png?alt=media&token=0b39285f-01dd-47a1-aab8-ccaf099b0f51",
+  "name": "Rodrigo Nonose"
 }

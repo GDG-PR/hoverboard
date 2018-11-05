@@ -1,32 +1,32 @@
 {
-	"order": 3,
-	"featured": false,
-	"company": "Teravoz",
-	"companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQHea9XFaYp2_Q/company-logo_200_200/0?e=1548288000&v=beta&t=cnQQg2KdIkTIe_JO9IkaCqwkkFMAC1nz7bzCPp9g3Mo",
-	"socials": [{
-		"icon": "gplus",
-		"link": "https://plus.google.com/+JaimeLopesFlores_dev",
-		"name": "Google+"
-	}, {
-		"name": "LinkedIn",
-		"icon": "linkedin",
-		"link": "https://www.linkedin.com/in/jaimelopesflores/"
-	}, {
-		"name": "GitHub",
-		"icon": "github",
-		"link": "https://github.com/jaimelopesflores"
-	}],
-	"country": "São José dos Campos, São Paulo",
-	"bio": "Analista Desenvolvedor de Sistemas com mais de 9 anos de experiência no desenvolvimento de softwares desktop, web e mobile. Organizador e palestrante do Google Developer Group de Sâo José dos Campos - SP.",
-	"badges": [{
-		"description": "GDG São José dos Campos",
-		"link": "https://www.meetup.com/pt-BR/gdgsjc/",
-		"name": "gdg"
-	}],
-	"shortBio": "Analista Desenvolvedor de Sistemas com mais de 9 anos de experiência e Organizador do Gdg São José dos campos",
-	"photoUrl": "https://scontent.ftow2-1.fna.fbcdn.net/v/t1.0-9/26815242_1688506294565407_6845134758002519672_n.jpg?_nc_cat=106&_nc_ht=scontent.ftow2-1.fna&oh=6ddd7719a0f13431eeeb53f6a75378aa&oe=5C4F5038",
-	"name": "Jaime Flores",
-	"companyLogo": "",
-	"title": "Desenvolvedor Sênior",
-	"photo": ""
+  "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Fjaime-flores.jpg?alt=media&token=e90e68af-1905-4c13-8387-0f7127e450bb",
+  "name": "Jaime Flores",
+  "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Fteravoz.png?alt=media&token=25ca68de-2586-4cf9-9eac-97f5410e45de",
+  "title": "Desenvolvedor Sênior",
+  "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Fjaime-flores.jpg?alt=media&token=e90e68af-1905-4c13-8387-0f7127e450bb",
+  "order": 3,
+  "featured": true,
+  "company": "Teravoz",
+  "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Fteravoz.png?alt=media&token=25ca68de-2586-4cf9-9eac-97f5410e45de",
+  "socials": [{
+    "icon": "gplus",
+    "link": "https://plus.google.com/+JaimeLopesFlores_dev",
+    "name": "Google+"
+  }, {
+    "icon": "linkedin",
+    "link": "https://www.linkedin.com/in/jaimelopesflores/",
+    "name": "LinkedIn"
+  }, {
+    "name": "GitHub",
+    "icon": "github",
+    "link": "https://github.com/jaimelopesflores"
+  }],
+  "country": "São José dos Campos, São Paulo",
+  "bio": "Analista Desenvolvedor de Sistemas com mais de 9 anos de experiência no desenvolvimento de softwares desktop, web e mobile. Organizador e palestrante do Google Developer Group de Sâo José dos Campos - SP.",
+  "badges": [{
+    "link": "https://www.meetup.com/pt-BR/gdgsjc/",
+    "name": "gdg",
+    "description": "GDG São José dos Campos"
+  }],
+  "shortBio": "Analista Desenvolvedor de Sistemas com mais de 9 anos de experiência e Organizador do Gdg São José dos campos"
 }
