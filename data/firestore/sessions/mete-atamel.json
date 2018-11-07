@@ -1,0 +1,8 @@
+{
+  "complexity" : "Intermediate",
+  "language" : "English",
+  "description" : "What does it take to connect Google Assistant to the cloud? Surprisingly, not much! In this talk, we will create a Dialogflow app to get Google Assistant to talk to a container managed by Kubernetes/App Engine. In the container, we’ll use some of the Machine Learning APIs and BigQuery and see how they can elevate our Google Assistant app to the next level. We will also integrate with Stackdriver and see how you can get more insights about your app with HTTP tracing and live debugging features of Stackdriver.",
+  "speakers" : [ "mete-atamel" ],
+  "tags" : [ "Google Assistant", "Cloud" ],
+  "title" : "Google Assistant powered by Containers, ML and .NET on Google Cloud"
+}

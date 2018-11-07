@@ -1,0 +1,28 @@
+{
+  "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Fmete-atamel.jpg?alt=media&token=5a99f9ba-7c67-4a0a-9f35-986786f747eb",
+  "name": "Mete Atamel",
+  "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Fgoogle.png?alt=media&token=d7884e76-11d9-4b64-9a94-64c1b35bd3a8",
+  "title": "Senior Developer Advocate",
+  "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Fmete-atamel.jpg?alt=media&token=5a99f9ba-7c67-4a0a-9f35-986786f747eb",
+  "order": 3,
+  "featured": true,
+  "company": "Google",
+  "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Fgoogle.png?alt=media&token=d7884e76-11d9-4b64-9a94-64c1b35bd3a8",
+  "socials": [{
+    "name": "Twitter",
+    "icon": "twitter",
+    "link": "https://twitter.com/meteatamel/"
+  }, {
+    "icon": "linkedin",
+    "link": "https://www.linkedin.com/in/meteatamel/",
+    "name": "LinkedIn"
+  }, {
+    "name": "GitHub",
+    "icon": "github",
+    "link": "https://github.com/meteatamel/"
+  }],
+  "country": "Londres, Reino Unido",
+  "bio": "Mete is a Developer Advocate at Google, focused on helping developers with Google Cloud. As a long-time Java and C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from the island of Cyprus, he currently lives in Greenwich of London, not too far away from the prime meridian.",
+  "badges": [],
+  "shortBio": "Senior Developer Advocate at Google for Google Cloud Platform"
+}

@@ -13,11 +13,13 @@ yarn firestore:copy ./data/firestore/speakers/marcel-goncalves.json speakers/mar
 yarn firestore:copy ./data/firestore/speakers/rodrigo-nonose.json speakers/rodrigo-nonose
 yarn firestore:copy ./data/firestore/speakers/sheimy-rahman.json speakers/sheimy-rahman
 yarn firestore:copy ./data/firestore/speakers/thadeu-luz.json speakers/thadeu-luz
+yarn firestore:copy ./data/firestore/speakers/mete-atamel.json speakers/mete-atamel
 
 yarn firestore:copy ./data/firestore/sessions/credenciamento.json sessions/credenciamento
 yarn firestore:copy ./data/firestore/sessions/keynote.json sessions/keynote
 yarn firestore:copy ./data/firestore/sessions/codelab.json sessions/codelab
 yarn firestore:copy ./data/firestore/sessions/painel.json sessions/painel
+yarn firestore:copy ./data/firestore/sessions/livre.json sessions/livre
 yarn firestore:copy ./data/firestore/sessions/almoco.json sessions/almoco
 yarn firestore:copy ./data/firestore/sessions/coffee.json sessions/coffee
 yarn firestore:copy ./data/firestore/sessions/encerramento.json sessions/encerramento
@@ -38,5 +40,6 @@ yarn firestore:copy ./data/firestore/sessions/thadeu-luz.json sessions/thadeu-lu
 yarn firestore:copy ./data/firestore/sessions/jefferson-otoni.json sessions/jefferson-otoni
 yarn firestore:copy ./data/firestore/sessions/rodrigo-nonose.json sessions/rodrigo-nonose
 yarn firestore:copy ./data/firestore/sessions/jaime-flores.json sessions/jaime-flores
+yarn firestore:copy ./data/firestore/sessions/mete-atamel.json sessions/mete-atamel
 
 yarn firestore:copy ./data/firestore/schedule.json schedule/2018-11-24
