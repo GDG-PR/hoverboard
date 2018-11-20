@@ -3,7 +3,7 @@
   "title": "",
   "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Fnonose.png?alt=media&token=0b39285f-01dd-47a1-aab8-ccaf099b0f51",
   "order": 9,
-  "featured": true,
+  "featured": false,
   "company": "Em Casa",
   "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Fem-casa.png?alt=media&token=6b5d53a1-70d1-4219-b4fc-d58b54f7d1fe",
   "socials": [{

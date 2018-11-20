@@ -1,0 +1,15 @@
+{
+  "order" : 2,
+  "title" : "Apoio",
+  "logos" : [ {
+    "order" : 0,
+    "name" : "Dev Paraná",
+    "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/partners%2Fdevprana.png?alt=media&token=83212c0f-b865-41f4-8d58-955c69f9ee0c",
+    "url" : "http://devparana.org"
+  }, {
+    "order" : 1,
+    "name" : "FEITEP",
+    "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/partners%2Ffeitep.png?alt=media&token=84118be3-53db-4dfb-ba6f-ed4c2858331d",
+    "url" : "http://www.feitep.edu.br"
+  } ]
+}

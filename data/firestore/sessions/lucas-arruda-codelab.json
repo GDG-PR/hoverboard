@@ -1,0 +1,7 @@
+{
+  "complexity" : "Intermediate",
+  "description" : "",
+  "speakers" : [ "lucas-arruda" ],
+  "tags" : [ "Java", "App Engine" ],
+  "title" : "CODELAB: Rodando uma app Java Spring Boot no Google App Engine"
+}

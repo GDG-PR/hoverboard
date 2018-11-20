@@ -1,0 +1,32 @@
+{
+  "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Fale-borba.jpg?alt=media&token=1c47252f-9df3-48bd-b97d-73dd46a38ebc",
+  "name": "Alê Borba",
+  "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Fgoogle.png?alt=media&token=d7884e76-11d9-4b64-9a94-64c1b35bd3a8",
+  "title": "Gerente de Programas de Relacionamento",
+  "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Fale-borba.jpg?alt=media&token=1c47252f-9df3-48bd-b97d-73dd46a38ebc",
+  "order": 5,
+  "featured": true,
+  "company": "Google",
+  "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Fgoogle.png?alt=media&token=d7884e76-11d9-4b64-9a94-64c1b35bd3a8",
+  "socials": [{
+    "name": "Twitter",
+    "icon": "twitter",
+    "link": "https://twitter.com/ale_borba/"
+  }, {
+    "icon": "linkedin",
+    "link": "https://www.linkedin.com/in/ale-borba/",
+    "name": "LinkedIn"
+  }, {
+    "name": "GitHub",
+    "icon": "github",
+    "link": "https://github.com/aleborba/"
+  }],
+  "country": "São Paulo, SP",
+  "bio": "Gerente de Programas focado em comunidades técnicas, de desenvolvedores e Startups. Tenho trabalhado firmemente para o crescimento, em número e qualidade, dessas comunidades por toda a América Latina. Ex colunista sobre Open Source na Revista iMasters. No meu tempo livre, gosto de escrever artigos sobre open source, computação em núvem e Python. Além disso, pra me manter atualizado, gosto de estudar sobre tecnologias, como Tensorflow, Kubernetes, Machine Learning, Análise de Dados e, minha paixão pessoal, ciclismo.  Durante antes de auto aprendizagem, eu fui capaz de adquirir uma capacidade de aprendizado rápido em tecnologias, e é por isso que eu continuo estudando para o meu crescimento pessoal e profissional. Ex membro do board do GoBridge, GruPy-SP, PHP-SP, Tux-ES Desenvolvedor Python (nível intermediário), um grande fã de APIs abertas e um entusiasta de Machine Learning. ",
+  "badges": [{
+    "name": "google",
+    "link": "https://www.linkedin.com/in/ale-borba/",
+    "description": "Gerente de Programas de Relacionamento"
+  }],
+  "shortBio": "Gerente de Programas de Relacionamento com Desenvolvedores no Google"
+}

@@ -1,0 +1,10 @@
+{
+  "order" : 0,
+  "title" : "Patrocinador Diamante",
+  "logos" : [ {
+    "order" : 0,
+    "name" : "Google Developers",
+    "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/partners%2Fgoogle-developers.svg?alt=media&token=a2b9b10a-25c5-49b1-92db-dfa78eecc519",
+    "url" : "https://developers.google.com/"
+  } ]
+}

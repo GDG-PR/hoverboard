@@ -28,11 +28,10 @@
           "items": [ "mete-atamel" ]
         },
         {
-          "items": [ "livre" ]
+          "items": [ "fernando-tenorio" ]
         },
         {
-          "items": [ "codelab" ],
-          "extend": 3
+          "items": [ "livre" ]
         }
       ]
     },
@@ -45,6 +44,9 @@
         },
         {
           "items": [ "sheimy-rahman" ]
+        },
+        {
+          "items": [ "jaime-flores-codelab" ]
         }
       ]
     },
@@ -57,6 +59,9 @@
         },
         {
           "items": [ "thadeu-luz" ]
+        },
+        {
+          "items": [ "lucas-arruda-codelab" ]
         }
       ]
     },
@@ -80,8 +85,7 @@
           "items": [ "marcel-goncalves" ]
         },
         {
-          "items": [ "codelab" ],
-          "extend": 6
+          "items": [ "thadeu-luz-codelab" ]
         }
       ]
     },
@@ -94,6 +98,9 @@
         },
         {
           "items": [ "flavia-mota" ]
+        },
+        {
+          "items": [ "ana-coimbra-codelab" ]
         }
       ]
     },
@@ -111,10 +118,13 @@
       "endTime": "16:50",
       "sessions": [
         {
-          "items": [ "heitor-gouvea" ]
+          "items": [ "ale-borba" ]
         },
         {
-          "items": [ "livre" ]
+          "items": [ "jefferson-otoni" ]
+        },
+        {
+          "items": [ "jaime-flores-codelab" ]
         }
       ]
     },
@@ -126,7 +136,10 @@
           "items": [ "larissa-guimaraes" ]
         },
         {
-          "items": [ "jefferson-otoni" ]
+          "items": [ "jaime-flores" ]
+        },
+        {
+          "items": [ "lucas-arruda-codelab" ]
         }
       ]
     },
@@ -138,7 +151,10 @@
           "items": [ "rodrigo-nonose" ]
         },
         {
-          "items": [ "jaime-flores" ]
+          "items": [ "heitor-gouvea" ]
+        },
+        {
+          "items": [ "livre" ]
         }
       ]
     },

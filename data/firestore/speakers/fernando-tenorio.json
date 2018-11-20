@@ -23,6 +23,6 @@
   "title": "",
   "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Ffernando-tenorio.jpeg?alt=media&token=80d0075a-85d4-48c0-badf-8de19238ea5f",
   "order": 14,
-  "featured": true,
+  "featured": false,
   "company": "TecnoSpeed"
 }

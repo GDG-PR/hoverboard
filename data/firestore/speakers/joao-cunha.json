@@ -12,7 +12,7 @@
   "title": "Product Manager",
   "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/speakers%2Fjoao-cunha.jpg?alt=media&token=e53007d5-9d8e-4b1e-b91f-eb62f7ce0314",
   "order": 13,
-  "featured": true,
+  "featured": false,
   "company": "Foregon",
   "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Fforegon.png?alt=media&token=9bc58600-f6ed-4214-8b3a-4aa4c253da1b",
   "socials": [{

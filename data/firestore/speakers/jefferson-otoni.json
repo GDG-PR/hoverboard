@@ -1,6 +1,6 @@
 {
   "order": 15,
-  "featured": true,
+  "featured": false,
   "company": "S3WF",
   "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Fs3wf.png?alt=media&token=4568e47e-2f56-4b22-92d7-f46c9a74b614",
   "socials": [{

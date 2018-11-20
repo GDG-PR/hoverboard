@@ -14,6 +14,7 @@ yarn firestore:copy ./data/firestore/speakers/rodrigo-nonose.json speakers/rodri
 yarn firestore:copy ./data/firestore/speakers/sheimy-rahman.json speakers/sheimy-rahman
 yarn firestore:copy ./data/firestore/speakers/thadeu-luz.json speakers/thadeu-luz
 yarn firestore:copy ./data/firestore/speakers/mete-atamel.json speakers/mete-atamel
+yarn firestore:copy ./data/firestore/speakers/ale-borba.json speakers/ale-borba
 
 yarn firestore:copy ./data/firestore/sessions/credenciamento.json sessions/credenciamento
 yarn firestore:copy ./data/firestore/sessions/keynote.json sessions/keynote
@@ -41,5 +42,15 @@ yarn firestore:copy ./data/firestore/sessions/jefferson-otoni.json sessions/jeff
 yarn firestore:copy ./data/firestore/sessions/rodrigo-nonose.json sessions/rodrigo-nonose
 yarn firestore:copy ./data/firestore/sessions/jaime-flores.json sessions/jaime-flores
 yarn firestore:copy ./data/firestore/sessions/mete-atamel.json sessions/mete-atamel
+yarn firestore:copy ./data/firestore/sessions/ale-borba.json sessions/ale-borba
+
+yarn firestore:copy ./data/firestore/sessions/jaime-flores-codelab.json sessions/jaime-flores-codelab
+yarn firestore:copy ./data/firestore/sessions/lucas-arruda-codelab.json sessions/lucas-arruda-codelab
+yarn firestore:copy ./data/firestore/sessions/thadeu-luz-codelab.json sessions/thadeu-luz-codelab
+yarn firestore:copy ./data/firestore/sessions/ana-coimbra-codelab.json sessions/ana-coimbra-codelab
 
 yarn firestore:copy ./data/firestore/schedule.json schedule/2018-11-24
+
+yarn firestore:copy ./data/firestore/partners/diamante.json partners/diamante
+yarn firestore:copy ./data/firestore/partners/realizacao.json partners/realizacao
+yarn firestore:copy ./data/firestore/partners/apoio.json partners/apoio

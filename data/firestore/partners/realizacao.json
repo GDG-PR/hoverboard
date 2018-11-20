@@ -1,0 +1,20 @@
+{
+  "order" : 1,
+  "title" : "Relização",
+  "logos" : [ {
+    "order" : 0,
+    "name" : "GDG Maringá",
+    "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/partners%2Fgdg_maringa.png?alt=media&token=45d1bf58-6272-4cf6-8477-63ad785dfaa9",
+    "url" : "https://www.meetup.com/pt-BR/GDG-Maringa/"
+    },{
+    "order" : 1,
+    "name" : "GDG Cascavel",
+    "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/partners%2Fgdg_cascavel.png?alt=media&token=a5b8c704-9707-40e2-9120-bb6bad7fce1f",
+    "url" : "https://www.meetup.com/pt-BR/GDG-Cascavel/"
+    },{
+    "order" : 2,
+    "name" : "GDG Toledo",
+    "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/partners%2Fgdg_toledo.png?alt=media&token=f0af800d-f0d6-4e22-b31f-b548aa7f923f",
+    "url" : "https://www.meetup.com/pt-BR/GDG-Toledo-PR/"
+  } ]
+}

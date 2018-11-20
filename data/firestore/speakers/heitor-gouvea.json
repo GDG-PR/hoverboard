@@ -3,7 +3,7 @@
   "title": "",
   "photo": "",
   "order": 4,
-  "featured": true,
+  "featured": false,
   "company": "Independent Security Researcher",
   "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-pr-2018.appspot.com/o/companies%2Fheitor.png?alt=media&token=726211cb-414c-4d30-b9fb-ba410305ede2",
   "socials": [{

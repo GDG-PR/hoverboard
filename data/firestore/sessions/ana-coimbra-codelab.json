@@ -1,0 +1,7 @@
+{
+  "complexity" : "Intermediate",
+  "description" : "",
+  "speakers" : [ "ana-coimbra" ],
+  "tags" : [ "Firebase", "Security" ],
+  "title" : "CODELAB: Testando as regras de segurança do Firestore usando simulador"
+}
