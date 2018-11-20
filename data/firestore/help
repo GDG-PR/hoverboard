@@ -45,7 +45,8 @@ yarn firestore:copy ./data/firestore/sessions/mete-atamel.json sessions/mete-ata
 yarn firestore:copy ./data/firestore/sessions/ale-borba.json sessions/ale-borba
 
 yarn firestore:copy ./data/firestore/sessions/jaime-flores-codelab.json sessions/jaime-flores-codelab
-yarn firestore:copy ./data/firestore/sessions/lucas-arruda-codelab.json sessions/lucas-arruda-codelab
+yarn firestore:copy ./data/firestore/sessions/lucas-arruda-codelab-1.json sessions/lucas-arruda-codelab-1
+yarn firestore:copy ./data/firestore/sessions/lucas-arruda-codelab-2.json sessions/lucas-arruda-codelab-2
 yarn firestore:copy ./data/firestore/sessions/thadeu-luz-codelab.json sessions/thadeu-luz-codelab
 yarn firestore:copy ./data/firestore/sessions/ana-coimbra-codelab.json sessions/ana-coimbra-codelab
 
