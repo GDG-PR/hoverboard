@@ -101,15 +101,15 @@
       },
       "days": {
         "label": "Codelabs",
-        "number": "8"
+        "number": "6"
       },
       "sessions": {
         "label": "Palestras",
-        "number": "8"
+        "number": "14"
       },
       "tracks": {
         "label": "Trilhas",
-        "number": "2"
+        "number": "3"
       }
     }
   },
