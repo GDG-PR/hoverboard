@@ -2,6 +2,6 @@
   "complexity" : "Intermediate",
   "description" : "",
   "speakers" : [ "lucas-arruda" ],
-  "tags" : [ "API", "App Engine" ],
-  "title" : "CODELAB: Como usar o Framework de Endpoints (APIs) no App Engine"
+  "tags" : [ "Cloud Functions", "App Engine" ],
+  "title" : "CODELAB: Mão na massa com App Engine e Cloud Functions"
 }
